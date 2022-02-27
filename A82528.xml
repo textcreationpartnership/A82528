@@ -1,0 +1,941 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A friendly debate on a weighty subject: or, a conference by writing betwixt Mr Samuel Eaton and Mr John Knowles concerning the divinity of Iesus Christ: for the beating out, and further clearing up of truth.</title>
+            <author>Eaton, Samuel, 1596?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 158 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82528</idno>
+            <idno type="STC">Wing E121</idno>
+            <idno type="STC">Thomason E609_16</idno>
+            <idno type="STC">ESTC R205964</idno>
+            <idno type="EEBO-CITATION">99865178</idno>
+            <idno type="PROQUEST">99865178</idno>
+            <idno type="VID">117415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117415)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E609[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A friendly debate on a weighty subject: or, a conference by writing betwixt Mr Samuel Eaton and Mr John Knowles concerning the divinity of Iesus Christ: for the beating out, and further clearing up of truth.</title>
+                  <author>Eaton, Samuel, 1596?-1665.</author>
+                  <author>Knowles, John, fl. 1646-1668.</author>
+               </titleStmt>
+               <extent>[8], 60 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for Gyles Calvert, at the black spread-Eagle at the West-end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCL.[1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Divinity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117415:1" rendition="simple:additions"/>
+            <p>A friendly DEBATE On a WEIGHTY SUBJECT: OR, A Conference by Writing Betwixt M<hi rend="sup">r</hi> 
+               <hi>SAM<g ref="char:V">Ʋ</g>EL EATON</hi> AND M<hi rend="sup">r</hi> 
+               <hi>JOHN KNOWLES</hi> Concerning the DIVINITY OF IESUS CHRIST: For the beating out, and further clearing up of TRUTH.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. N.</hi> for GYLES CALVERT, at the black ſpread-Eagle at the Weſt-end of <hi>Pauls,</hi> MDCL.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117415:2"/>
+            <p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap> preſented Truths, nor thine own Eyes to be too much weakned by over much uſe of the clouded ſpectacles of Ancient termes and opinions: but in regard there muſt be ſome Oneneſs, and Analogy between the Recipient, and the thing received, to make up an intellectuall, and perfect conjunction; (as the Metaphyſicks ſay:) be exhorted in the fer<g ref="char:EOLhyphen"/>vent Love of the Love-working Spirit, to under<g ref="char:EOLhyphen"/>ſtand what you receive, and to receive what you convincingly underſtand; let not ancient Autho<g ref="char:EOLhyphen"/>rity darken Truths glory, though newly diſcove<g ref="char:EOLhyphen"/>red; nor new Errors ſhake Truth ſetled, though anciently confirmed, but as the Apoſtle ſaith in the Spirit of the Father, <hi>Try all things.</hi> The <hi>Treatiſe</hi> deſignes the confirmation of the <hi>Negative</hi> part of this <hi>Logicall Queſtion, Whether Jeſus Chriſt the Son of the Moſt High God, be that God?</hi> the nature thereof is of high concernment, and cals for the greateſt, the graveſt conſideration. 'Tis the exhortation of the Spirit,<note place="margin">
+                  <hi>Heb.</hi> 3.1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Heb.</hi> 3.1. <hi>Holy Brethren conſider,</hi> the word is weighty. Beloved Chriſtians, the Son requires the underſtanding of a ſublimated ſpirit, ſunk down into the very Center of the Soul, expunged from the Reliques of the dregs of vain deluſions. <hi>Profeſsors</hi> of all ſorts examine principles already ta<g ref="char:EOLhyphen"/>ken in; try it with your own hands, eſpecially this heer preſented, it is matter of moment, and that for theſe Arguments.</p>
+            <p n="1">1. In regard of the <hi>Excellency</hi> of this Knowledg,<note place="margin">
+                  <hi>Phil.</hi> 3.8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſo <hi>Paul</hi> cals it, <hi>Phil.</hi> 3.8. 'tis the knowledg of him that lay in the womb of Eternity; that received, that revealed, the boſom-ſecrets of glory, 1 <hi>Ioh.</hi> 1.18. 'Tis the knowledg of our friend, that is crowned King in
+<pb facs="tcp:117415:2"/>the Aſſembly of Heaven, and contains the treaſures of wiſdom and knowledge, <hi>Pſal.</hi> 2.6. <hi>Col.</hi> 2.3.</p>
+            <p n="2">2. In regard of the <hi>Myſterie</hi> of this Knowledge. Every Truth is a ſecret, and that in regard of its <hi>proximity</hi> (that I may not ſay <hi>Identity</hi>) <hi>to the higheſt:</hi> Then that, ſure, more eminently which the Spirit of God intentionally ſignes ſo. The Sons name is a ſecret, as that Angels, <hi>Judg.</hi> 13.18. <hi>Phelij,</hi> a ſecret, a wonderfull name; a wonderfull name indeed would it be, were his name in the number thereof made known. And <hi>Col.</hi> 4.3. <hi>Eph.</hi> 3.3. <hi>Col.</hi> 2.2.<note place="margin">
+                  <hi>Col.</hi> 4.3. <hi>Epheſ.</hi> 3.3. <hi>Col.</hi> 2.2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The diſquiſition and ſearch of things remote, ſeparate, and tranſcendent, is a work for Spirits generated in the Divine Love, and tinctur'd with the Divine Nature, which enobles them above all acts ſeemingly glorious in the worlds view; eſpecially</p>
+            <p n="3">3. In regard of the <hi>Utility</hi> thereof: The Know<g ref="char:EOLhyphen"/>ledge of the Son is very profitable: by the right underſtanding whereof many prophecies concern<g ref="char:EOLhyphen"/>ing the Church lye either chained up in darkneſs, and undiſcovered, or appear ſo mighty, that they are by moſt too too raſhly cenſur'd &amp; condemned. 'Tis no leſs then eternall life in all the parts thereof, <hi>John</hi> 17.3. 1 <hi>John</hi> 5.20. Nay,<note place="margin">
+                  <hi>John</hi> 17.3. 1 <hi>John</hi> 5.20. <hi>John</hi> 14.9.</note> 'tis to know the Be<g ref="char:EOLhyphen"/>ing of all knowledg; and the center of every Being, <hi>John</hi> 14.9.</p>
+            <p>Friends, ſit down no longer in deadneſs, in dark<g ref="char:EOLhyphen"/>neſs: but conſider theſe things in your ſelves once and again, and then judg according to the ſpirit of Oneneſs and divine Revelation that works in you. See more by your own Eyes; that the <hi>Babel of Tra<g ref="char:EOLhyphen"/>ducall Doctrines</hi> authoriz'd only by man, may fail and
+<pb facs="tcp:117415:3"/>fall. To beleeve this or that to be, without a ſpiri<g ref="char:EOLhyphen"/>tuall light and intelligent perſwaſion, is but an implicit faith, and comes under the <hi>Roman</hi> condem<g ref="char:EOLhyphen"/>nation. He knows beſt that hath truth written upon his own ſoul.</p>
+            <p>But when on the one hand I weigh the wanton<g ref="char:EOLhyphen"/>neſs of theſe dayes, in lifting up the heel againſt many Truths preſſing near; and the facility on the other hand to entertain without knowledge and underſtanding, it prompts me to premeditate the various effects this enſuing Treatiſe will produce: Some Luxuriant and heady ſpirits will (peradven<g ref="char:EOLhyphen"/>ture) draw the curtains before they know 'tis night, and ſit down in their retired, their forced darkneſs. Others, whoſe ears ſtands always open, and Athe<g ref="char:EOLhyphen"/>nian-like, are wandring, are waiting for ſome new thing, wil too eaſily welcom it as an Angel of Light, and lodg it with them without ſo much as quaering <hi>What are you?</hi> But are afterwards as ſoon drawn out of it as dallied to it. Yet is it my hopes that ſome <hi>Valiant one in ſpirituall Iſrael, whoſe ſword is on his thigh, Cant.</hi> 3.7, 8. will enter the Liſt with her, to the diſ<g ref="char:EOLhyphen"/>covery of her ſtrength or weakneſs, and endeavour the ſettlement of this point in Queſtion.</p>
+            <p>Happily this may be the time that the Truth of theſe Myſteries of the Father and of Chriſt ſhall be manifeſted: who ſees not the multitude of diviſions, haeſitations, acceptations concerning <hi>God, Chriſt,</hi> and the <hi>Spirit.</hi> The ſmoke of the pit aſcends very high; me thinks it proclaims the glory of the Lord to be riſing for the breaking of the cloud, to the uſhering in of the day.</p>
+            <div type="part">
+               <pb facs="tcp:117415:3"/>
+               <head>But why are ſuch things brought forth to trouble the people?</head>
+               <p>'Tis not (I can aſſure thee) blazon'd with ſingu<g ref="char:EOLhyphen"/>larity or effected publicity; but that that Doctrine formerly received might have better foundations then the Philoſophers <hi>Jus Rationis,</hi> or <hi>occulta qualitas</hi> to palliate their ignorance, that things might come to a particular ſcrutiny, and that the ſeemingly fair face of many mentall buildings may be ſearched, and their body examin'd to the very <hi>Baſis.</hi>
+               </p>
+               <p>Let no man be offended at the ſtyle thereof, plainneſs of language may be no hinderance to her entertainment: ſhe may happily make better proviſion in that kinde, when <hi>humane Eloquence</hi> is made the <hi>Watchword</hi> in the Lords Army; and yet if any ſhall wonder why it adventures abroad in ſuch a cloathing; give me leave to Apolo<g ref="char:EOLhyphen"/>gize a little for her Garments, and tell you that ſhe roſe in haſte, and intended onely a viſita<g ref="char:EOLhyphen"/>tion to a private friend, upon a more then ear<g ref="char:EOLhyphen"/>neſt invitation; but by the way meeting with ſome adventitious Salutants, ſhe was unwillingly arreſted, and now preſt to hazard her ſelf upon the doubtfull multitude.</p>
+               <p>Laſtly, (for I am writing an Epiſtle) if any Man from its pretence to Light, and claim to Reaſon (eſpecially the <hi>Gentleman</hi> for whom it was inten<g ref="char:EOLhyphen"/>ded, and to whom 'tis committed) ſhall daigne to deſcend the Sands with it, Let him in Love, and in the Spirit know, <hi>That reviling is no reaſon,</hi> and that he addes nothing to Truth that belch<g ref="char:EOLhyphen"/>eth
+<pb facs="tcp:117415:4"/>forth bitterneſs from a diſtemper'd ſpirit; Let him teach himſelf in the Doctrine of <hi>Luther, Non convitiis ſed argumentis errantis conſcientia eſt erigenda.</hi> And if yet any man ſhall indiſcreetly and ſcornfully handle his weapons, the return of the Author I (ſuppoſe) will be ſilence.</p>
+            </div>
+         </div>
+         <div type="overview">
+            <pb n="1" facs="tcp:117415:4"/>
+            <head>Maſter <hi>Eaton</hi>'s Scriptures and Inſtances.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Doctrine againſt Chriſt being God, is not onely contradictory to the Scripture which doth moſt clearly hold him out to be ſo, as when he is called <hi>God,</hi> in <hi>Pſal. 45.6. Thy throne, O God, is for ever and ever; The mighty God,</hi> Iſa. <hi>9.6. The great God and our Saviour,</hi> in <hi>Tit. 2.13. The true God,</hi> Joh. <hi>5.20.</hi> and when the incommunicable name <hi>Jehovah</hi> is attributed to him in <hi>Jer. 23.6</hi> which ſignifies one that hath being of himſelf, and gives be<g ref="char:EOLhyphen"/>ing to his promiſes; and ſo becomes proper to the moſt high God alone: and when he is called <hi>The everlaſting Father,</hi> Iſa. <hi>9.6.</hi> and in that ſaying of Chriſt to the Jews, <hi>Before</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>was, I am,</hi> Joh. <hi>8.58.</hi> and in that <hi>Rev. 1.8. I am Alpha and Omega, the Beginning and the End, ſaith the Lord, which was, is, and which is to come; the Almighty:</hi> and when he is ſaid to be <hi>in the beginning, and to be with God, and to be God,</hi> Joh. <hi>1.1.</hi> and when it is ſaid that <hi>by him all things were made and without him nothing is made that was made:</hi> and when Chriſt ſaith that <hi>he is always, and ſo with all the faithful to the end of the world,</hi> Matth. <hi>28.20.</hi> and when he aſſerts that <hi>he knew all the works of the Churches,</hi> which at that diſtance, <hi>(as meer man)</hi> he could not do, <hi>Rev. 2.2.</hi> and when he is ſaid to be <hi>the firſt-born of every creature,</hi> where his eternal generation is held out, <hi>Col. 1.15.</hi> and that <hi>by him all things were created</hi> verſ. <hi>16.</hi> Now becauſe Creation is a making of all things out of nothing, and required an infinite power, God could make uſe of no in<g ref="char:EOLhyphen"/>ſtrument, inaſmuch as God cannot give an infinite power to any creature, becauſe no creature is capable of ſuch a divine attri<g ref="char:EOLhyphen"/>bute; for it would make him God, to be almighty, or to be in<g ref="char:EOLhyphen"/>finite in power: And when he is reſembled in reference to his
+<pb n="2" facs="tcp:117415:5"/>eternity to <hi>Melchizedek; Without beginning of days, or end of life,</hi> Heb. <hi>7.3.</hi> and that in <hi>Prov. 8.22. The Lord poſſeſſed me in the beginning of his way</hi> (ſaith Chriſt:) <hi>Before his works of old, I was ſet up from everlaſting,</hi> verſ, <hi>30. Then was I by him, as one brought up with him,</hi> &amp;c. And that in <hi>Zech. 13.7. Awake, O ſword, againſt my Shepherd, againſt the man that is my fellow.</hi> And that in <hi>Joh. 3.13. No man hath aſcended up into heaven, but he that came down from heaven, even the Son of man that is in heaven.</hi> And that in <hi>Joh. 17.5. Glorifie me, O Father, with that glory I had with thee before the world was.</hi> There be many other pregnant Scriptures, which would be too long to mention, for the proving of <hi>Chriſt to be God</hi> in that ſence which we uſually ſpeak of God: and therefore that opi<g ref="char:EOLhyphen"/>nion that denies it, contradicts theſe Scriptures.</p>
+            <p>But further, it may be truely ſaid that this Doctrine that makes Chriſt a meer creature, brings in <hi>as it were another Goſpel;</hi> deſtroys the true Goſpel in many of the parts of it, and brings in another Scripture in many points.</p>
+            <p n="1">
+               <hi>1.</hi> As firſt, if Chriſt be but a meer creature, and not God, then the giving of <hi>Divine worſhip, and honour, and ſervice</hi> to a meer creature is lawful and warrantable, and yet everywhere forbidden in reference to any creature; but is practiſed to Chriſt, in <hi>Rev. 5.12, 13, 14.</hi> and would be Idolatry, if Chriſt were not God.</p>
+            <p n="2">
+               <hi>2.</hi> If Chriſt be a meer creature, then it is lawful and war<g ref="char:EOLhyphen"/>rantable to <hi>believe in a meer creature,</hi> which is againſt the te<g ref="char:EOLhyphen"/>nour of the whole Scripture; but is commanded in reference unto Chriſt, <hi>Joh. 14.1.</hi> and ſalvation is annexed to it, <hi>Joh. 3.36.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> If Chriſt be but a meer creature, then <hi>faith in a meer creature can ſave man,</hi> which is abſurd and groſs, and contrary to the Scriptures: for <hi>Abraham believed God, and it was ac<g ref="char:EOLhyphen"/>counted to him for righteouſneſs,</hi> Rom. <hi>4.3.</hi> and ſo was ſaving.</p>
+            <p n="4">
+               <hi>4.</hi> If Chriſt be but a meer creature, then <hi>a meer creature is the Saviour of men,</hi> ſaving them with a mighty and eternal ſalvation, as the Scripture ſpeaks: but this is againſt the whole current of the Goſpel, which ſpeaks of <hi>God our Saviour, Tit. 2.10, 13,</hi> and in many other places.</p>
+            <pb n="3" facs="tcp:117415:5"/>
+            <p n="5">
+               <hi>5.</hi> If Chriſt be but a meer creature, then a meer creature is <hi>Mediator betwixt God and Man;</hi> which cannot be, becauſe a meer creature is no way meet to be a days-man for God; and becauſe a Mediator muſt either partake of both God and Man, or of neither; elſe he will rather be a party then a Me<g ref="char:EOLhyphen"/>diator, if he partake of Mans nature, and not of Gods; if he be Man, and not God. Therefore this Mediator betwixt God and Man is called Emmanuel, that is, God with us, or God in our nature; <hi>God manifeſted in the fleſh, 1</hi> Tim. <hi>3.16.</hi> or <hi>God made fleſh,</hi> as in <hi>Joh. 1.14.</hi>
+            </p>
+            <p n="6">
+               <hi>6.</hi> If Chriſt be but a meer creature, then the righteouſneſs of Chriſt which is imputed to believers, is <hi>not the righteouſ<g ref="char:EOLhyphen"/>neſs of God,</hi> but the righteouſneſs of a meer creature: But this is againſt the tenour of the Scripture, <hi>Phil. 3.9.</hi>
+            </p>
+            <p n="7">
+               <hi>7.</hi> If Chriſt be but a meer creature, then <hi>to pardon ſin be<g ref="char:EOLhyphen"/>longs not to him,</hi> becauſe Scripture teſtifies that none can for<g ref="char:EOLhyphen"/>give ſin but God, becauſe all ſin is againſt God, therefore none can forgive it but God. But it is evident Chriſt took the au<g ref="char:EOLhyphen"/>thority of forgiving ſin: <hi>Son,</hi> (ſaith Chriſt) <hi>thy ſins are for<g ref="char:EOLhyphen"/>given thee:</hi> and <hi>Luke 7.48.</hi>
+            </p>
+            <p n="8">
+               <hi>8.</hi> If Chriſt be but a meer creature, then the <hi>value of that offering</hi> which Chriſt offered, when he offered himſelf to God, <hi>is taken away,</hi> and the ſatisfaction which Chriſt gave to Di<g ref="char:EOLhyphen"/>vine juſtice is deſtroyed: for if the perſon that died were a meer man, and the blood that was ſhed, the blood of a meer man, and not of God, as it is called. <hi>Acts 20.28.</hi> then how could it ſatisfie for the ſins of many tranſgreſſors? for there is no pro<g ref="char:EOLhyphen"/>portion betwixt one meer man dying for ſins, and many men ſinning, and deſerving death each of them for the ſins they have committed. And how an infinite Juſtice offended, ſhould be ſatisfied with a ſacrifice finite in value, is unconceiveable, and againſt the tenour of the Scripture.</p>
+            <p n="9">
+               <hi>9.</hi> If Chriſt be a meer creature, then the <hi>interceſſion of Chriſt is utterly overthrown:</hi> for Chriſt, (if meer man) being in heaven, cannot know the ſtate of his Church in all places upon earth, therefore cannot intercede for it.</p>
+            <p n="10">
+               <hi>10.</hi> If Chriſt be a meer creature, then how can he <hi>protect, and defend, and ſave, and direct, and rule, and govern his Church
+<pb n="4" facs="tcp:117415:6"/>in all the world, in every condition, and againſt all enemies, he be<g ref="char:EOLhyphen"/>ing at ſuch a diſtance and remoteneſs from the Church;</hi> and yet it is ſaid of him, that he <hi>is able to ſave to the utmoſt</hi> thoſe that come to God by him, <hi>Heb. 7.25.</hi> and that he is <hi>with them to the end of the world;</hi> and Chriſt <hi>ſtood by Paul,</hi> and ſtrengthned him in ſuffering, <hi>Acts 23.11.</hi> and <hi>Rev. 3.10. Becauſe thou haſt kept the word of my patience, I will keep thee in the hour of temptation:</hi> ſo that it is Chriſt now in heaven that keeps the Saints on earth; which, being a meer creature, he can<g ref="char:EOLhyphen"/>not do.</p>
+            <p n="11">
+               <hi>11.</hi> If Chriſt be a meer creature, then a meer creature <hi>is the judge of the world;</hi> which is againſt the Scripture: for the Judge of all the world is God; before whom <hi>Abraham</hi> ſtood, <hi>Gen. 18.25.</hi> when he pleaded for <hi>Sodom.</hi> Rev. <hi>2.5, 6,</hi> the day of judgement is called <hi>the day of the revelation of the righteous judgement of God, who will render to every man according to his works.</hi>
+            </p>
+            <p n="12">
+               <hi>12.</hi> Laſtly (which ſhould have been before) if Chriſt be a meer creature, then <hi>prayer to him, being now in heaven, is altogether vain and frivolous,</hi> inſomuch as perſons may cry loud, long enough before Chriſt hear them at that diſtance. But the Saints have been wont not onely to pray to <hi>God</hi> in <hi>Chriſts Name,</hi> but to pray to <hi>Chriſt</hi> directly and immediately, as in <hi>Acts 7.59. Rev. 22.20. Lord Jeſus receive my ſpirit. Come, Lord Jeſus,</hi> &amp;c.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:117415:6"/>
+            <head>Maſter KNOWLS his Anſwer to the Ar<g ref="char:EOLhyphen"/>guments and Scriptures alleadged by M. <hi>Samuel Eaton</hi> concerning the Divinity of CHRIST.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is a good thing</hi> (as the Author to the <hi>Hebrews</hi> ſpeaks) <hi>that the heart be eſta<g ref="char:EOLhyphen"/>bliſhed in grace:</hi> and to me it is an <hi>in<g ref="char:EOLhyphen"/>dubitable truth,</hi> that <hi>unſettlement is ſometimes the next way to a right and firm eſtabliſhment:</hi> For <hi>Errour,</hi> whilſt miſapprehended, is entertained in gracious hearts as a welcome gueſt; and <hi>Truth,</hi> whilſt received hand over head by traditi<g ref="char:EOLhyphen"/>on onely, is as a Building whoſe foundation is but ſandy, which holds up no longer then the waves and windes hold in. Whether moſt Profeſſors have not ſwallowed without chewing much of that Doctrine they now profeſs, is not my work to determine. It is enough for me with ſhame to confeſs, that I have been of the number of thoſe (if any ſuch be) who ſee with other mens eyes, and pin their faith (as we uſually ſpeak) on the Churches ſleeve. But having now through the goodneſs of God turned over leaf, and learned a new courſe, I am reſolved to examine all things by the <hi>Touch-ſtone</hi> of Truth, that I may unlearn what I have learnt amiſs, and hold faſt that onely which in my <hi>underſtanding</hi> is good. Upon this account being ſomewhat willing to make a ſcrutiny in<g ref="char:EOLhyphen"/>to the <hi>Common Doctrine</hi> of the holy Trinity, (of which in moſt ages there have been ſome ſcruples amongſt men of parts and lear<g ref="char:EOLhyphen"/>ning) and exhorting others to the ſame practice for the abovenamed ends; but eſpecially reaſoning thereof as one dubious therein, I
+<pb n="6" facs="tcp:117415:7"/>was ſuſpected (to ſay no more) by you and others, to be in Faith unſound and Heterodox. Wherefore that the <hi>Common Doctrine</hi> might be ſupported, you publiſhed a Paper, and did caſt the ſame into my hands; which lying open to many Objections, I promi<g ref="char:EOLhyphen"/>ſed (being urged) to preſent you therewith, upon this condi<g ref="char:EOLhyphen"/>tion <hi>That nothing ſpoken might be taken for my judgment: To which you agreed, <hi>and therefore I ſhall act freely, as if I were in judgement directly oppoſite to you; and ſhall deſire that neither you nor others do conclude, before I profeſs what my judgement is.</hi>
+               </hi> I was about to preſent you with an <hi>exact Epi<g ref="char:EOLhyphen"/>tome</hi> of the common Doctrine of the holy Trinity, with <hi>Inter<g ref="char:EOLhyphen"/>rogations</hi> about it, <hi>Arguments</hi> againſt it, and ſeeming <hi>Contra<g ref="char:EOLhyphen"/>dictions</hi> in it; but have forborn, till I finde by a modeſt Anſwer to this, that your ſpirit is able to bear.</p>
+            <p>Now <hi>ad rem,</hi> to the buſineſs in hand; which is concerning the <hi>Deity of Ieſus Chriſt.</hi> The Queſtion is not clearly ſtated in your Paper; wherefore give me leave to do it.</p>
+            <p>The Queſtion is not Whether Jeſus Chriſt be a God in Name and Office Nor whether the Father dwell in him: but <hi>Whether he be That moſt high God, whoſe Being and Actings are origi<g ref="char:EOLhyphen"/>nally of himſelf.</hi> That he is, you aſſert but I deny, and that for the beating out and further clearing up of Truth. The way you have taken (by Scripture and Reaſon) to make good your Aſſer<g ref="char:EOLhyphen"/>tion, I cannot diſlike; the truth is, I like no other way. Whether the Scriptures brought ſpeak on your ſide, and whether your Rea<g ref="char:EOLhyphen"/>ſons have weight in them, is now the thing in debate.</p>
+            <p>I ſhall begin with your Scriptures, and with that firſt which firſt appears, which is <hi>Pſal.</hi> 5.6. <hi>Thy throne (O God) is for ever and ever: and the Scepter of thy Kingdom is a right Scepter.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Firſt, that no Argument can be found in the text to con<g ref="char:EOLhyphen"/>firm the thing you aſſert: for though it were granted, that this Pſalm is a Prophecie onely of <hi>Ieſus Chriſt,</hi> (which I ſhall not allow, it being ſpoken, according to a literal ſence, of <hi>Solomon</hi> the King; to which <hi>Willet, Pareus, Hugo Grotius Iunius, Cotton,</hi> and al<g ref="char:EOLhyphen"/>moſt all Interpreters do conſent) yet this Title <hi>God</hi> will not bolſter up your opinion of Chriſt. For the name <hi>Aelohim,</hi> which here is attributed unto <hi>Chriſt,</hi> is common with the moſt High to Crea<g ref="char:EOLhyphen"/>tures,
+<pb n="7" facs="tcp:117415:7"/>both Angels and Men. It is given to <hi>Angels,</hi> Pſal. 8.5. <hi>Thou haſt made him</hi> (that is, Chriſt) <hi>a little lower then</hi> Aelo<g ref="char:EOLhyphen"/>him <hi>Gods,</hi> (ſo in the Hebrew) which is tranſlated by the Author to the <hi>Hebrews,</hi> Chap. 2.7. the <hi>Angels.</hi> To <hi>men, Pſal.</hi> 82.1. <hi>God judgeth among the</hi> Gods, that is, the Rulers of <hi>Iſrael.</hi> So verſ. 6. <hi>I have ſaid, Ye are gods.</hi> Likewiſe in <hi>Exod.</hi> 22.8, 9. where the word is tranſlated <hi>Judges.</hi>
+            </p>
+            <p>Secondly, that ſome Arguments may be drawn from this Pſalm to deny the thing you aſſert. Take theſe.</p>
+            <p n="1">1. He that is bleſſed of God, is not the moſt high God: For <hi>without all contradiction, the leſs is bleſſed of the better,</hi> Heb. 7.7. But this God (Jeſus Chriſt). is bleſſed of God, <hi>verſ.</hi> 2. <hi>Grace is poured into thy lips, therefore god hath bleſſed thee for ever.</hi>
+            </p>
+            <p n="2">2. That God which hath a God, is not the moſt high God. But this God (Jeſus Chriſt) hath a God: <hi>Thou loveſt righte<g ref="char:EOLhyphen"/>ouſneſs, and hateſt wickedneſs; therefore, O God, thy God hath anointed thee with the oil of gladneſs above thy fellows,</hi> verſ. 7. Therefore, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. That God whoſe authority is derivative, is not the moſt high God. But the authority of this God (Jeſus Chriſt) is deri<g ref="char:EOLhyphen"/>vative, <hi>verſ.</hi> 7. where he is ſaid to be <hi>anointed by God,</hi> that is <hi>to receive Kingly or Godlike power form him.</hi> Therefore this God Jeſus Chriſt, is not the moſt high God.</p>
+            <p>Now I haſten to your ſecond Scripture, <hi>Iſa.</hi> 9.6. <hi>And his name ſhall be called Wonderful, Counſellor, The mighty God, The ever laſting Father, The Prince of Peace.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe two Titles, <hi>The mighty God, The everlaſting Father,</hi> you dig out of the text, and lay them as the foundation of your faith, that Jeſus Chriſt is the moſt high God.</p>
+            <p>To this Scripture take this Reply:</p>
+            <p n="1">1. That according to ſome mens reading, thoſe Titles do not at all belong in this place to Jeſus Chriſt: and after ſome mens ex<g ref="char:EOLhyphen"/>pounding, they appertain not to Chriſt onely. Some Jews thus read the words: <hi>And this is the name by which The Wonder<g ref="char:EOLhyphen"/>ful, Counſellor, The mighty God,</hi> &amp;c. <hi>ſhall call him,</hi> to wit, <hi>The Prince of Peace.</hi> This lection <hi>Calvin</hi> mentions; and knowing that the words may admit of this conſtruction, the verb being of a
+<pb n="8" facs="tcp:117415:8"/>neutral as wel as a paſſive ſignification ſpeaks in objecting no more then this; <hi>Quorſum tot epitheta in Deum Patrem hoc loce congeſta forent?</hi>
+               <note place="margin">Calv. <hi>Inſtit. l.</hi> 1. <hi>Cap.</hi> 13. <hi>p.</hi> 35.</note> That is; <hi>To what end ſhould ſo many epi<g ref="char:EOLhyphen"/>thets be heaped together in this place on God the Father? when the purpoſe of the Prophet was to adorn Chriſt with famous ti<g ref="char:EOLhyphen"/>tles which might build up our faith in him.</hi> Wherefore 'tis no doubt, but that by the ſame reaſon he is now called <hi>The ſtrong God,</hi> as a little before <hi>Immanuel.</hi>
+            </p>
+            <p>Others there be that give thoſe Titles typically to King <hi>Heze<g ref="char:EOLhyphen"/>kiah.</hi> Amongſt whom,<note place="margin">
+                  <hi>Et vocabitur nomen ejus</hi>] In Hebraeo eſt, <hi>vocabit.</hi> Supple <hi>quiſque.</hi> Notum autem Hebraeis dici ſic vel ſic vocari aliquem, cui ta<g ref="char:EOLhyphen"/>les tituli aut <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> conve<g ref="char:EOLhyphen"/>niunt. <hi>Hugo Grot. in loc.</hi>
+               </note> that learned man <hi>Hugo Grotius</hi> is one, whoſe Annotations on the place be pleaſed to take.</p>
+            <p>
+               <hi>And his name ſhall be called</hi>] Every one (that's ſupply'd) ſhall call him. Now 'tis known to the Hebrews, that any one is thus named, or called thus, to whom ſuch titles or epithets do agree.</p>
+            <p>
+               <hi>Wonderful</hi>] For thoſe very excellent vertues which ſhall be in him.</p>
+            <p>
+               <hi>Counſellor, mighty God</hi>] Yea rather, one that asketh counſel of the <hi>mighty God.</hi> One that in all buſineſſes ſeeks counſel from <hi>God,</hi> to wit, by the <hi>Prophets.</hi>
+            </p>
+            <p>
+               <hi>The Father of an age</hi>] One who ſhould leave after him many poſterities, and for a long time.</p>
+            <p n="2">2. But were it granted that the Text ſpeaks onely of <hi>Jeſus Chriſt,</hi> yet would not the thing in queſtion be thence concluded, Becauſe that the Titles amount not to ſo much as <hi>moſt high God,</hi> which are the terms of the Queſtion. <hi>Ael Gibbor, Mighty God,</hi> is not ſo much as <hi>Ael Shaddai, Almighty God,</hi> by which the <hi>moſt High</hi> is called, <hi>Gen.</hi> 17.1. And both theſe terms are com<g ref="char:EOLhyphen"/>municable to the Creature. <hi>Ael</hi> is uſed <hi>Pſal.</hi> 82.1. Aelohim <hi>ſtandeth in the aſſembly of Ael;</hi> which is tranſlated the <hi>mighty,</hi> but is the ſame with this in <hi>Iſaiah,</hi> Engliſhed <hi>God.</hi> That it is here attributed unto <hi>Magiſtrates,</hi> appears from the <hi>Septuagint,</hi> read<g ref="char:EOLhyphen"/>ing theſe words thus: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>God ſtandeth in the aſſembly of gods,</hi> the Magiſtrates in <hi>Iſrael.</hi> And the other epither <hi>mighty,</hi> is given to the <hi>Captains</hi> of <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zar</hi>'s Army, <hi>Ezek.</hi> 32.12. if we conſult with the Septuagint<g ref="char:EOLhyphen"/>verſion, where the words are thus read; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a ſtrong God;</hi> to which is exegetically added <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Lord,</hi> to expound it: or,
+<pb n="9" facs="tcp:117415:8"/>with <hi>Symmachus</hi> and <hi>Theodoret,</hi> with whom the words are thus rendred, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, ſtrong, mighty, put<g ref="char:EOLhyphen"/>ting a <hi>Comma</hi> between the words, as <hi>Montanus</hi> doth in his In<g ref="char:EOLhyphen"/>terlinial Bible: we ſhal not find ſo much ſtrength in the words, as ſome ſuppoſe, to bear up the Doctrine now in diſpute.</p>
+            <p>Now for this Title <hi>Everlaſting Father;</hi>
+            </p>
+            <p n="1">1. Our Tranſlation differs from moſt (if not all) both Greek and Latine Verſions. The Septuagint thus renders, [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>A Father of Eternity</hi> (life or world) <hi>to come. Sym.</hi> thus: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>A Father of the world. Theod.</hi> thus, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is from the Hebrew word for word, and may be thus Engliſhed: <hi>A Father unto poſterity.</hi> Hierome, <hi>pater futuri ſaeculi</hi> in the Margin, but in the Line <hi>pater aeternitatis,</hi> a <hi>Father of Eternity;</hi> to which <hi>Tremellius</hi> and <hi>Piſcator</hi> agree. Now the reaſon ſaith <hi>Pa<g ref="char:EOLhyphen"/>raem</hi> why he is called a <hi>Father of Eternity,</hi> is, becauſe he is the <hi>Authour of Eternal life.</hi>
+            </p>
+            <p n="2">2. Our Tranſlation gain-ſays a main part of the <hi>Common</hi> opinion. It is the Doctrine of our Divines, that the Perſons in the Trinity may be <hi>diſtinguiſhed,</hi> but not <hi>divided,</hi> nor <hi>confoun<g ref="char:EOLhyphen"/>ded.</hi> The <hi>Perſon</hi> of the Father (ſay they) is not the <hi>Perſon</hi> of the Son; nor is the <hi>Son</hi> the <hi>Father,</hi> &amp;c. Now there is but <hi>one</hi> Everlaſting Father. But if <hi>Chriſt</hi> be the Everlaſting Father, either there are two Everlaſting Fathers, or the Per<g ref="char:EOLhyphen"/>ſon of the Father and the Son are <hi>confounded.</hi>
+            </p>
+            <p n="3">3. But in the laſt place, were it granted that thoſe titles belong to Chriſt <hi>onely,</hi> and that they are equivalent with that of <hi>Moſt High God:</hi> yet will it not of neceſſity follow, that <hi>Jeſus Chriſt is the Moſt High God:</hi>
+            </p>
+            <p n="1">1. Becauſe titles may be tranſlated from one to another, to whom they properly do not belong. <hi>Daniel</hi> calls <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar King of Kings, Dan.</hi> 2.37. In the Old Teſtament 'tis a uſuall thing, for <hi>Angels</hi> and <hi>Men,</hi> who did repreſent God to bear his <hi>Name.</hi>
+            </p>
+            <p n="2">2. Becauſe enough may be found in the Text to diſtinguiſh this glorious <hi>one,</hi> who bears thoſe glorious names, from the <hi>Moſt High God:</hi> 1. In that thoſe titles of glory are given to the <hi>Childe,</hi> that ſhould be born, (which was the <hi>Man</hi>
+               <pb n="10" facs="tcp:117415:9"/>Chriſt Jeſus) without making mention of any other nature, <hi>v.</hi> 6. 2. In that the Perſon to whom thoſe titles appertain is called <hi>a Son,</hi> and is ſaid to be <hi>given. <g ref="char:V">Ʋ</g>nto us a Childe is born, unto us a Son is given, &amp;c.</hi> which notes out <hi>another</hi> perſon, and one <hi>greater:</hi> for he that <hi>gives,</hi> is greater then he that's given; for none but Superiours can give or diſpoſe of others.</p>
+            <p n="3">3. Becauſe there is another ſpoken of in the Text, who is exalted <hi>above him,</hi> to whom thoſe titles belong, by a name more noble, <hi>Iehovah of Sabbaoth</hi> or <hi>Hosts,</hi> which by the A<g ref="char:EOLhyphen"/>poſtle from <hi>Eſay</hi> 6.3. is tranſlated <hi>Lord Almighty, Rev.</hi> 4.8. and given to him that ſits on the Throne, who is diſtingui<g ref="char:EOLhyphen"/>ſhed from the <hi>Lamb,</hi> chap. 5.13. And in that all thoſe things ſpoken of the Son are appropriated to another as the Author thereof. <hi>The zeal of the Lord of Hoſts ſhall perform</hi> or doe this, <hi>v.</hi> 7.</p>
+            <p>Now I ſhall cloſe up the Anſwer with an Expoſition, that a learned &amp; godly man gives of the place. His words are theſe:</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nto us a Childe is born, unto us a Son is given, and the government ſhall be upon his ſhoulder, and his name ſhall be called</hi> WONDERFUL <hi>(by reaſon of his exaltation, which is ſo ſtrange and wonderful, that even the greatest part of Christians cannot believe it, and therefore imagine another nature in Chriſt, beſides his Humane Nature, as thinking a man uncapable of ſo tranſcendent an exaltation)</hi> COUN<g ref="char:EOLhyphen"/>CELLOUR <hi>(In being made acquainted with all the Councels of God)</hi> MIGHTY GOD (by reaſon of the Divine Empire over all things both in Heaven and Earth, conferred on him by the Father, agreeably whereunto <hi>Paul</hi> calleth him <hi>God over all bleſſed for evermore,</hi> Rom. 9.5. <hi>A Father of the age</hi> (In being the Authour of the age to come, as both the Sep<g ref="char:EOLhyphen"/>tuagint, and old Latin Interpreter expound it: or elſe a <hi>Fa<g ref="char:EOLhyphen"/>ther of Eternity,</hi> in being Authour of Eternal Life to all that obey him. For to render the words as the Engliſh Tranſla<g ref="char:EOLhyphen"/>tors do, who here call Chriſt the <hi>Everlaſting Father,</hi> is to confound the Perſon of the Son with that of the Father, and ſo to introduce <hi>Sabellianiſm.</hi>
+            </p>
+            <p>Your Third Scripture is,<note place="margin">Tit. 3.13.</note> 
+               <hi>Tit.</hi> 3.13. which I ſhall paſs over
+<pb n="11" facs="tcp:117415:9"/>till I come to your ſecond paper, where it is brought forth in a more formal way, and with an appearance of greater ſtrength.</p>
+            <p>THat which follows is,<note place="margin">1 Iohn 5.20.</note> 1 <hi>Iohn</hi> 5.20. <hi>This is the true God, and eternall life.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Chriſt is the moſt high God, in that he is, (as you ſuppoſe) here called the <hi>true God.</hi> The words I confeſs at the firſt bluſh ſeems to ſtand on your ſide: but if well conſide<g ref="char:EOLhyphen"/>red they ſpeak not a word for your cauſe; for they relate not to the Son, but to the <hi>Father onely.</hi>
+            </p>
+            <p>Firſt, if we conſider theſe words, <hi>this is the true God, and eternal life,</hi> as an intire body of themſelves, not having de<g ref="char:EOLhyphen"/>pendance on the words immediately preceding, as probably they have not, being by a full point ſeparated from them: then they are the Epitome, Abridgement, or ſumme of the whole Epiſtle.</p>
+            <p>And ſo the Apoſtles mind ſeems to be this: <hi>This Father</hi> which I have in this my Epiſtle treated of, <hi>is the true God;</hi> and this <hi>Ieſus Chriſt</hi> of whom I have ſpoken, and in whom ye have believed is <hi>eternal life;</hi> that is the way to it.</p>
+            <p>Secondly, but were it granted, that theſe words, <hi>This is the true God,</hi> do depend on the foregoing words: yet will it not of neceſſity follow, that the Son, not the <hi>Father</hi> is the An<g ref="char:EOLhyphen"/>tecedent to the Relative, <hi>this;</hi> and ſo that the ſentence muſt be thus underſtood, <hi>This Son is the true God.</hi> In the prece<g ref="char:EOLhyphen"/>dent words there is mention made of the <hi>Father:</hi> [<hi>And we know</hi> (ſaith the Apoſtle) <hi>that the Son of God is come,</hi>] <hi>i. e.</hi> We Believers aſſuredly know, that the Son of God is already come in the fleſh, notwithſtanding many at this time gain-ſay and deny it, <hi>[And hath given us an underſtanding that we may know him that is true]</hi> and this Jeſus Chriſt, being in the bo<g ref="char:EOLhyphen"/>ſome of the Father, and having received from him the promiſe of the ſpirit, hath anointed the eyes of our mindes, that we might ſavingly <hi>know him that is true,</hi> that is, the <hi>true God;</hi> as ſome Greek Copies have it. <hi>[And we are in him that is true, &amp;c.]</hi> If with <hi>Eraſmus</hi> and <hi>Tindal</hi> we read the words thus: <hi>and we are in him that is true through his Son Jeſus
+<pb n="12" facs="tcp:117415:10"/>Chriſt;</hi> the meaning is this, We have not only an apprehen<g ref="char:EOLhyphen"/>ſion of, but alſo union and communion with him who is the <hi>true God,</hi> by the means of his Son <hi>Jeſus Chriſt.</hi> But if we follow <hi>Piſcator,</hi> the words hold out that oneneſs and fellow<g ref="char:EOLhyphen"/>ſhip, which the Saints have with the Father, and his Son Je<g ref="char:EOLhyphen"/>ſus: For thus he would have them read, <hi>And we are in him that is true, (to with the Father) and in his Son Ieſus Chriſt.</hi> But laſt of all, if we conſent with <hi>Hierome,</hi> who by making <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a redundant hath them thus, <hi>and we are in this true Son Ieſus Chriſt; they speak only of that oneneſs we have with Chriſt.</hi> Now the words that follow, relate to the Father; <hi>This is the true God.</hi> The Apoſtle intends the <hi>Father:</hi> But becauſe his aſſertion is contrary to many mens interpretation, take for the backing of it theſe few Reaſons.</p>
+            <p n="1">1. Becauſe the Text will Grammatically bear it: for the words may be thus rendred, <hi>That is the true God;</hi> and ſo the Antecedent to the Relative, is not the Perſon immediat<g ref="char:EOLhyphen"/>ly foregoing, which is Jeſus Chriſt, but another ſpoken of at a farther diſtance, to wit the <hi>Father.</hi>
+            </p>
+            <p n="2">2. Becauſe Jeſus Chriſt no where in the Scripture is called the <hi>true God;</hi> and therefore is it the more queſtionable, whe<g ref="char:EOLhyphen"/>ther he be ſo called here the place being ſomewhat doubtful and ambiguous.</p>
+            <p n="3">3. Becauſe the Father is called the true God diſtinct from the Son, 1 <hi>Theſſ.</hi> 1.9, 10. <hi>For they themſelves ſhew of us, what manner of entring in we had unto you, and how ye tur<g ref="char:EOLhyphen"/>ned to God from Idols, to ſerve the living and true God, and to wait for his Son from Heaven, whom he raiſed from the dead, even Ieſus which delivered us from the wrath to come.</hi> It is evident from this Text, that the <hi>Father</hi> diſtinct from the Son, is called the living and <hi>true God;</hi> and therefore is it probable, that in the Text under Examination, the Father onely is intended in this expreſſion, <hi>this is the true God.</hi>
+            </p>
+            <p n="4">4. Becauſe the Father is called <hi>the onely true God,</hi> John 17.3. <hi>And this is life eternal that they might know thee the only true God, and whom thou haſt ſent Ieſus Chriſt.</hi> Here the Father is called the onely true God, and ſo the Son is ex<g ref="char:EOLhyphen"/>cluded from being the true God, and therefore of neceſſity
+<pb n="13" facs="tcp:117415:10"/>in 1 <hi>Iohn</hi> 5.20. The Father onely is intended.</p>
+            <p>THe Text which comes next to be ſcanned,<note place="margin">Ier. 23 6.</note> is, <hi>Ier.</hi> 23.6. <hi>And this is his name, whereby he ſhall be called, The Lord our Righteouſneſs.</hi> Hence is gathered that <hi>Ieſus Chriſt is the most High God, becauſe the incommunicable name</hi> Jehovah <hi>is attributed to him.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Firſt, that it is a probable conjecture that our Engliſh Tranſlators ſaw not this Myſtery wrapt up in the name <hi>Jeho<g ref="char:EOLhyphen"/>vah.</hi> In that they do not here follow their uſuall cuſtome in giving the Hebrew name: for they read not <hi>Jehovah,</hi> but <hi>the Lord our righteouſneſs.</hi> Yea, that the Apoſtles themſelves were ignorant of the uſe, where unto the name <hi>Jehovah</hi> is put by you and others. For though we have in the New Teſta<g ref="char:EOLhyphen"/>ment Hebrew names, yet <hi>Jehovah</hi> appears not there; but in ſtead thereof <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Lord,</hi> which is a common name.</p>
+            <p>Againſt this you once objected, That the name <hi>Iehovah</hi> cannot be expreſt in the Greek language. But to me this ſeems not true; for there is no letter in <hi>Iehovah</hi> which the Greeks want, but may be found in other names, which in the New Teſtament are rendred in imitation of the Hebrew; as <hi>Iacob, Abraham, David.</hi> And it cannot but ſeem ſtrange, that that name, which cannot (as you ſay) be expreſſed in the Greek language (by which the Old and New Teſtament was publiſhed to the greateſt part of the world) ſhould be a foundation for that, which you call a <hi>truth fundamental.</hi>
+            </p>
+            <p>Secondly, that it is not an undeniable conſequent that Jeſus Chriſt is the <hi>Moſt High God,</hi> becauſe called <hi>Iehovah;</hi> for although the name may moſt properly belong to the moſt High God: yet 'tis communicated in the Scripture unto crea<g ref="char:EOLhyphen"/>tures. To <hi>Angels</hi> frequently, <hi>Gen.</hi> 19.24. <hi>Then Iehovah rained upon Sodom and Gomorrha brimſtone and fire from Ie<g ref="char:EOLhyphen"/>hovah out of Heaven;</hi> That is, the <hi>Angel</hi> which did ſu<g ref="char:EOLhyphen"/>ſtain the name of <hi>Iehovah,</hi> he rained, &amp;c. If credit may be given to ſome, the title <hi>Iehovah</hi> is in this of <hi>Ieremiah</hi> appro<g ref="char:EOLhyphen"/>priated to the people of <hi>Iſrael</hi> and <hi>Iudah.</hi> They read the words thus, <hi>and this is the name which they ſhall call it,</hi> [to wit the people,] <hi>Iehovah our righteouſneſs;</hi> that is, God
+<pb n="14" facs="tcp:117415:11"/>hath done well for us. In <hi>Ier.</hi> 33.16. the people of <hi>Ieruſa<g ref="char:EOLhyphen"/>lem</hi> and <hi>Iudah</hi> in the letter, but according to a Myſticall ſenſe, the <hi>Church of Chriſt</hi> is called <hi>Iehovah our righteouſ<g ref="char:EOLhyphen"/>neſs. In thoſe days ſhall Iudah be ſaved, and Ieruſalem ſhall dwell ſafely: and this is the name wherewith ſhe ſhall be cal<g ref="char:EOLhyphen"/>led, Iehovah our righteouſneſs.</hi> Alſo the City <hi>Ieruſalem</hi> is called <hi>Iehovah,</hi> Ezek. 48.35. <hi>And the name of the City from that day ſhall be Iehovah is there.</hi> Yea, the Altar, which <hi>Moſes</hi> erected when the <hi>Amalekites</hi> were diſcomfited is called <hi>Iehovah Niſſi, The Lord my Hunter,</hi> Exodus 17.15. I know you will not ſay, that the Church is the moſt High God, much leſs the Altar or City <hi>Ieruſalem;</hi> yet you may ſee that the Incommunicable name <hi>Iehovah</hi> is, communicated to them. How your inference concerning Chriſt may be juſtifi<g ref="char:EOLhyphen"/>ed, is yet not evident: but remains dubious, not onely for the commonneſs of the name, but alſo becauſe this <hi>Iehovah</hi> is ſaid to be raiſed by another, <hi>v.</hi> 5.</p>
+            <p>THE Scripture which occupies the next place hath been already inſiſted on: wherefore that which fol<g ref="char:EOLhyphen"/>lows being <hi>Iohn</hi> 8.58.<note place="margin">John 8.58.</note> 
+               <hi>Before Abraham was, I am,</hi> is now to be ſpoken to.</p>
+            <p>
+               <hi>Anſw.</hi> The words rightly underſtood will no ways coun<g ref="char:EOLhyphen"/>tenance your inference from them. In the words we have a Grammaticall Figure which they call <hi>Enallage,</hi> whereby, one time is put for another, as here the <hi>preſent</hi> tenſe for the <hi>prae<g ref="char:EOLhyphen"/>ter, Am</hi> for <hi>Was, Before Abraham was, I was:</hi> and ſo they note out and ſignifie one or both of the things that follow.</p>
+            <p n="1">1. That <hi>Ieſus Chriſt</hi> was inſtituted and revealed before <hi>Abraham</hi> had a being. If we take the word <hi>I,</hi> to ſignifie the Whole of Chriſt, there is a neceſſity that the words be thus underſtood: for Chriſt according to the fleſh was not in be<g ref="char:EOLhyphen"/>ing before <hi>Abraham</hi> was. That he was revealed before <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> was, is clear and evident: for the <hi>ſeed of the woman</hi> at the beginning was made known to <hi>Adam.</hi> That he was or<g ref="char:EOLhyphen"/>dained before <hi>Abraham</hi> had a being is from Scripture not a little manifeſt, as 1 <hi>Pet.</hi> 1.20. And by the ſame reaſon he may here be ſaid to be before <hi>Abraham</hi> was, as he is elſe<g ref="char:EOLhyphen"/>where
+<pb n="15" facs="tcp:117415:11"/>called the <hi>Lamb ſlain from the foundation of the world,</hi> Rev. 13.8.</p>
+            <p n="2">2. That he had a reall being and exiſtence before <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> was; this cannot be aſſerted of <hi>whole Chriſt,</hi> and there<g ref="char:EOLhyphen"/>fore according to this Expoſition the Figure <hi>Synecdoche</hi> (whereby the whole is put for a part) muſt be underſtood in the Text. It is granted by all that contend for, and by ſome that deny the Divinity of Jeſus Chriſt, that he had a being and exiſtence before <hi>Abraham</hi> was: but what this being was is the onely doubt. Some affirm that Jeſus Chriſt, be<g ref="char:EOLhyphen"/>fore he was born of the Virgin <hi>Mary,</hi> had no other exiſtence, but in the Godhead, and was onely to be conſidered as the Son eternally begotten of the Father. Others aſſert that this conceit is neither Scriptural nor Rational, but unſound and abſurd: and that he had a created being before <hi>Abraham</hi> was; yea, that he was the <hi>firſt</hi> creature, and ſo Lord of all.</p>
+            <p>That this Controverſie may be decided, I ſhall lay down three Poſitions.</p>
+            <p n="1">1. That whole Chriſt doth conſiſt of fleſh and ſpirit.<label type="milestone">
+                  <seg type="milestoneunit">Poſition </seg>1</label>
+            </p>
+            <p>Every man is conſtituted of two parts, fleſh and ſpirit, 2 <hi>Cor.</hi> 7.1. <hi>Iam.</hi> 2.26. and ſo is Chriſt, as in <hi>Rom.</hi> 1.3, 4. where the Apoſtle ſpeaking of whole Chriſt, mentions nothing but fleſh and ſpirit. <hi>According to the fleſh,</hi> that is, the body of Chriſt, <hi>he was of the ſeed of</hi> David: <hi>But after the spirit of holi<g ref="char:EOLhyphen"/>neſs, he was the Son of God.</hi>
+            </p>
+            <p>He that can finde another part beſides thoſe two, or any nature beſides what belongs to his fleſh and ſpirit, may have liberty to bring forth, (for ought I know) what he may find out.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſition </seg>2</label> That Chriſt before he took upon him the ſeed of <hi>Abraham</hi> did <hi>exiſt onely</hi> according to the <hi>ſpirit.</hi> He had no being but a ſpiritual one: But this is no controverſall thing, being on all hands concluded for truth. The onely diſagreement is, whether this ſpirit of holineſs after which Chriſt is the Son of God doth ſignifie the Divine Nature, and Godhead, or elſe the ſoul which was created or formed, and did exiſt diſtinct from the fleſh or body of Chriſt.</p>
+            <p>Wherefore the third Poſition is:</p>
+            <pb n="16" facs="tcp:117415:12"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſition </seg>3</label> That the Spirit of Chriſt, according to which he was the Son of God, is a Creature.</p>
+            <p>To ſupport this take theſe Reaſons:</p>
+            <p n="1">1. Becauſe to affirm that the Spirit of Chriſt did exiſt di<g ref="char:EOLhyphen"/>ſtinct from his body, and may be ſpoken of as a perſon, is not in the leaſt abſurd. For the ſpirit or ſoul of a man may exiſt diſtinct from the body, and is ſpoken of as a perſon. What are thoſe <hi>spirits of juſt men made perfect,</hi> Heb. 12.23. but the ſouls of good men glorified in Heaven, whoſe bodies were in the graves. In <hi>Luke</hi> 23.43. ſaith Chriſt to the Thief, <hi>This day ſhalt thou be with me in Paradiſe; Thou,</hi> that is, thy ſoul or ſpirit, ſhall be with <hi>me,</hi> that is, with my ſpirit in Paradiſe.</p>
+            <p n="2">2. Becauſe the titles which moſt properly belong to Chriſt before he took fleſh, do hold him forth to be a Creature; firſt, he is called the <hi>Son of God, Luke</hi> 1.35. Now this title informs us of his Inferiority to God, his Exiſtency of God, and his Superiority over all things.</p>
+            <p n="1">1. It holds forth his Inferiority to God, God is his Father; but a ſon is inferiour to a father, and by the Law is bound to honour and obey him.</p>
+            <p>Wherefore Chriſt confeſſeth that his Father was greater then he, <hi>Iohn</hi> 14.28. <hi>My Father is greater then I.</hi> And profeſſeth that he did honour his Father, <hi>Iohn</hi> 8.49. Ieſus anſwered, I have not a Devil: <hi>but I honour my Father, and ye do diſhonour me.</hi>
+            </p>
+            <p>That this might be put paſt all doubt, he is called the Son of the Higheſt, <hi>Luke</hi> 1.32. <hi>He ſhall be great, and ſhall be called the Son of the Highest, and the Lord God ſhall give unto him the Throne of his Father David.</hi> And therefore not the Higheſt, for there can be but one Higheſt; and he is the Father of our Lord Jeſus Chriſt.</p>
+            <p n="2">2. This title Son of God proclaims his Exiſtency on God.</p>
+            <p>A Son is of a Father, and therefore the being of a Father is before the being of a Son; God as he is a Creator, is <hi>the Father of all, Eph.</hi> 4.6. And all men as creatures, <hi>are Gods off-ſpring. Acts</hi> 17.28. Angels and Men who are principall creatures, are called the <hi>Sons of God,</hi> Job 38.7. Luke 3 38.
+<pb n="17" facs="tcp:117415:12"/>They that hold the Deity of Chriſt, do affirm, that the Son was of the Father by an Eternall Generation. But what this Generation is, they cannot declare, and therefore call it <hi>ineffable;</hi> Yet M. <hi>Perkins</hi> will tell us, that the Son was <hi>generated</hi> of the Father, in that the Divine Eſſence was <hi>com<g ref="char:EOLhyphen"/>municated</hi> to him. But who can tell what this Him, was, to whom this Eſſence was communicated? And who can affirm, that this Eſſence was <hi>communicated</hi> to this <hi>Him,</hi> and yet aſſert, and evidence that <hi>he was never without it?</hi> And that he was God, and yet <hi>diſtinct</hi> from the Eſſence; for it is ſaid that the Eſſence was <hi>communicated</hi> to Him? Where Scrip<g ref="char:EOLhyphen"/>ture doth aſſert, and how reaſon will make out an <hi>Eternall Generation,</hi> and whether the phraſe Eternall Generation doth not contain in it a meer contradiction, let him that can, ſhew.</p>
+            <p>Now let it be aſſerted, <hi>That Jeſus Chriſt is the Son of God as he is a creature,</hi> and then let us ſee, whether a de<g ref="char:EOLhyphen"/>finition may not be made of his Generation.</p>
+            <p>
+               <hi>His Generation is that act of Creation, whereby the God of all beings did immediately and in the firſt place, bring forth and produce him.</hi>
+            </p>
+            <p>
+               <hi>Generation</hi> and <hi>Creation,</hi> to beget and create, are ſome<g ref="char:EOLhyphen"/>times in Scripture terms equivalent: As is evident from the work of God in changing the creature which is ſometimes called a <hi>new Creation,</hi> ſometimes <hi>Regeneration;</hi> and the per<g ref="char:EOLhyphen"/>ſon changed is in one place ſaid to be <hi>created</hi> in another to be <hi>begotten.</hi>
+            </p>
+            <p>In the laſt place this title Son of God, ſets forth his ſupe<g ref="char:EOLhyphen"/>riority over all things. We ſhall find that Son of <hi>God,</hi> &amp; <hi>Chriſt</hi> are terms convertible, if we compare <hi>Matth.</hi> 16.16. with <hi>Mark</hi> 8.29. when Chriſt asked his Diſciples this quaery, <hi>Whom think ye that I am? Then Simon Peter anſwered and ſaid, Thou art Chriſt, the Son of the living God.</hi> So <hi>Mat<g ref="char:EOLhyphen"/>thew:</hi> But <hi>Mark</hi> in relating the ſame anſwer, gives it thus, <hi>Thou art the Chriſt.</hi> From which is evident, that <hi>Chriſt</hi> and the <hi>Son</hi> of God are terms equivalent; for one Evangeliſt u<g ref="char:EOLhyphen"/>ſeth both, that one might expound the other, but ano<g ref="char:EOLhyphen"/>ther leaves out one of the terms, becauſe either was ſuffici<g ref="char:EOLhyphen"/>ent,
+<pb n="18" facs="tcp:117415:13"/>both being Synonama's. So likewiſe in <hi>Acts</hi> 9.20. com<g ref="char:EOLhyphen"/>par'd with <hi>verſ.</hi> 22. of the ſame chap. And 'tis as manifeſt in the ſcripture, that Chriſt, <hi>King of Iſrael;</hi> and <hi>choſen of God</hi> are convertible terms, noting out one and the ſame thing, to wit, <hi>Authority, Dominion,</hi> and <hi>Power.</hi> It will appear to you as clear as the ſunn, if you compare theſe Texts together, <hi>Matth.</hi> 27.42.<note place="margin">Filij dicuntur qui aliqua ex<g ref="char:EOLunhyphen"/>parte alicui ſunt ſimiles.</note> 
+               <hi>Mark</hi> 15.32. <hi>Luke</hi> 23.35. <hi>Magiſtrates</hi> and <hi>Princes,</hi> by reaſon of that Dominion they have over others, are called the <hi>the ſons of the moſt High, Pſ.</hi> 82.6. <hi>I have ſaid ye are Gods: and all of you are ſons of the moſt High.</hi>
+            </p>
+            <p>So <hi>David</hi> is called in <hi>Pſal.</hi> 2.7. which myſtically and more properly belong to <hi>Chriſt, Thou art my Son, this day have I begotten thee,</hi> which ſets forth the Kingly Office of Jeſus Chriſt, according to the confeſſion of all. Now Chriſt is named The ſon of God in way of <hi>Eminency,</hi> as being King of Kings, and Lord of Lords. That this ſuperiority which Chriſt hath over all things might be the more perſpicuous, he bears this name alſo; <hi>The onely begotten Son of God, Jo.</hi> 3.16. which title points at his <hi>Heirſhip.</hi> Jeſus Chriſt by <hi>whom God made the world, was appointed to be heir of all things, Heb.</hi> 1.2. now he that is an Heir, is (as the Apoſtle ſpeaks) <hi>Lord of all,</hi> Gal. 4.1. In this ſenſe <hi>Iſaac</hi> is ſaid to be <hi>Abrahams onely be<g ref="char:EOLhyphen"/>gotten</hi> ſon, <hi>Heb.</hi> 11.17. not that <hi>Abraham</hi> had no other ſon, (for he had one by <hi>Hagar,</hi> and diverſe by <hi>Keturah</hi>) but be<g ref="char:EOLhyphen"/>cauſe <hi>Iſaac</hi> was his <hi>heir.</hi> To the reſt he gave gifts, but to <hi>Iſaac</hi> all that he had.</p>
+            <p>The ſecond Title is the <hi>word of God,</hi> Rev. 19.13. <hi>And his name is called, The Word of</hi> God.</p>
+            <p>This name is impoſed on him for two Cauſes.</p>
+            <p>Firſt, becauſe he is the <hi>Image</hi> of Gods inviſibility, God is inviſible, and dwels in unacceſſible light: and therefore in this life he cannot be known as he is; notwithſtanding, be<g ref="char:EOLhyphen"/>cauſe the knowledg of God is eternal life; he hath reveal'd himſelf ſo farr as neceſſary, and in a way ſuitable to our capa<g ref="char:EOLhyphen"/>city. This diſcovery of God is made in his ſon Jeſus, who is therefore called (Col. 1.15.) the <hi>Image of the inviſible God;</hi> and alſo the <hi>brightneſs of the Fathers glory, character of his ſubſtance, Heb.</hi> 1.3. And this Image Jeſus Chriſt hath his
+<pb n="19" facs="tcp:117415:13"/>Shadows, whereby he reveals himſelf, and ſo conſequently the Father. His ſhadows are the works of God, Chriſt being Gods principall and immediate Inſtrument in all his works: And alſo the words of God are a ſhadow of Chriſt, for by them are the works of God made known or made more clear unto us, and therefore Chriſt is fitly called <hi>The word of God,</hi> in that a word or ſpeech is the diſcoverer of mans inviſibility. The excellency or deformity of the minde, the tongue makes evident.</p>
+            <p>Secondly, becauſe he was produced by God immediately. This title declares not only that he was made, but alſo that he was Gods immediate work. <hi>Facere verba,</hi> to make words is no unuſuall phraſe; mens words are their creatures. And for the producing or making of words no inſtrument diſtinct from the Agent intervenes; but the Agent is the inſtrument: Therefore a word is a lively ſhadow of Jeſus Chriſt, who was the firſt creature that ever God made, and the inſtrument by which he made all things.</p>
+            <p>The third title is this, <hi>The firſt-born of every Creature, Coll.</hi> 1.15. It is evident from the Text, that this title is appro<g ref="char:EOLhyphen"/>priated to Jeſus Chriſt, <hi>by whom all things are made:</hi> and it cannot be applyable to him any otherwiſe, but as a <hi>creature;</hi> and it holds him forth to be the <hi>firſt</hi> of Creatures. A mans firſt-born is the <hi>firſt</hi> that he begets, and is brought forth to him. The ſame word is uſed to expreſs the firſt-born among the <hi>Egyptians</hi> children, <hi>Heb.</hi> 11.28.</p>
+            <p>The fourth title is, <hi>The beginning of the creation of God, Rev.</hi> 3.14. The beginning of the creation of God, that is, the firſt of Gods creatures; the words will bear this expoſi<g ref="char:EOLhyphen"/>tion: for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>beginning,</hi> ſignifies the firſt part of any thing, or the firſt of things in the ſame kinde: ſo in <hi>Luke</hi> 1.2. <hi>Mat.</hi> 24.8. <hi>Joh.</hi> 2.11. But ſome will ſay, that he is called the beginning, becauſe he is the <hi>Prince</hi> of the creation. But where the word is uſed in the ſingular number to ſignifie a Prince, I doe not at preſent minde. True it is, that Chriſt is the chief, becauſe he is the firſt of all the Creatures. Others will affirm, that he is thus called, becauſe he is the <hi>Author</hi> of the creation. But this expoſition is excluded, in that the
+<pb n="20" facs="tcp:117415:14"/>creation whereof he is the beginning, is called <hi>the Creation of God,</hi> who is the author of all created things.</p>
+            <p>Now for the third reaſon which doth confirm the third po<g ref="char:EOLhyphen"/>ſition, <hi>That the Spirit of Chriſt, according to which he is the Son of God, is a Creature.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Becauſe <hi>whole Chriſt is</hi> a creature.</p>
+            <p>If whole Chriſt be, then doubtleſs every part of Chriſt is a creature.</p>
+            <p>That whole Chriſt is a creature, theſe following Argu<g ref="char:EOLhyphen"/>ments will demonſtrate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>1</label> 
+               <hi>That which is diſtinct from GOD is a creature.</hi>
+            </p>
+            <p>
+               <hi>But whole CHRIST is diſtinct from GOD, therefore whole CHRIST is a CREAI<g ref="char:V">Ʋ</g>RE.</hi>
+            </p>
+            <p>The Major is evident to ſenſe and Reaſon: for God is but one, and 'tis abſurd to imagine him diſtinct from himſelf. But ſome peradventure will make uſe of the uſuall diſtinction be<g ref="char:EOLhyphen"/>twixt perſon and eſſence, and ſo affirm, that one may be di<g ref="char:EOLhyphen"/>ſtinguiſhed from God perſonally, and yet be one in eſſence with him.</p>
+            <p>To this diſtinction hear what a learned and godly man ſpeaks: His words are theſe: <q>As for this wretched diſtin<g ref="char:EOLhyphen"/>ctions (to omit the mention of the Fathers) is not onely unheard of in Scripture, but is alſo diſclaimed by Reaſon.</q> For, 1. it is impoſſible for any man, if he would but endevour to conceive the thing, and not delude both himſelf and others with empty terms and words without underſtanding, to di<g ref="char:EOLhyphen"/>ſtinguiſh the <hi>perſon</hi> from the <hi>eſſence</hi> of God, and not to frame two beings or things in his minde, and conſequently two Gods. Secondly, if the <hi>Perſon</hi> be diſtinct from the <hi>Eſſence</hi> of God, then it is either ſomething or nothing; If nothing, how can it be diſtinguiſhed, ſeeing nothing hath no accidents? If ſomething, then either ſome finite or infinite thing; if finite, then there will be ſomething <hi>finite</hi> in God, and conſequently (ſince by the confeſſion of the Adverſaries themſelves, <hi>every thing in God is God</hi>) God will be <hi>finite,</hi> which the Adverſaries themſelves will confeſs to be abſurd. If infinite, then there will be <hi>two</hi> infinites in God, to wit, the <hi>Perſon</hi> and the <hi>Eſſence</hi> of God, and conſequently <hi>two Gods;</hi>
+               <pb n="21" facs="tcp:117415:14"/>which is more abſurd then the former. Thirdly, to talk of God taken onely eſſentially is ridiculous; not onely becauſe there is no example thereof in Scripture; but becauſe God is the name of a <hi>Perſon,</hi> and ſignifieth him that ruleth over others; and when it is put for the moſt High God, it deno<g ref="char:EOLhyphen"/>teth him who with ſoveraign and abſolute authority ruleth over all, but none but a <hi>Perſon</hi> can rule over others, all acti<g ref="char:EOLhyphen"/>ons being proper to <hi>perſons:</hi> wherefore to take God other<g ref="char:EOLhyphen"/>wiſe then <hi>perſonally,</hi> is to take him otherwiſe then he is, and indeed to miſtake him.</p>
+            <p>Thus much for the Major.</p>
+            <p>The Minor, which is, <hi>That whole Chriſt is distinct from God, is now to be prov'd.</hi> The Scripture being full and fre<g ref="char:EOLhyphen"/>quent in the demonſtration of this, I ſhall ſpeak but a few words to it.</p>
+            <p>Firſt, Chriſt himſelf doth confeſs it, <hi>John</hi> 8.42. <hi>Jeſus ſaid unto them</hi> (to wit the Jews) <hi>if God were your Father, yee would love me; for I proceeded forth, and came from God; neither came I of my ſelf, but he ſent me.</hi> In this Text we may note theſe few things:</p>
+            <p n="1">1. <hi>That God is a Perſon,</hi> and that <hi>Father</hi> is his name, <hi>If God were your Father ye would love me, &amp;c.</hi>
+            </p>
+            <p n="2">2. That Chriſt doth plainly <hi>distinguiſh</hi> himſelf from God: <hi>If God were your Father, ye would love me; for I proceeded forth, and came from God, &amp;c.</hi> Yea, he affirms that of himſelf, which denies him to be God; to wit, change of place, <hi>I pro<g ref="char:EOLhyphen"/>ceeded</hi> (ſaith he) <hi>and came forth from God.</hi> And ſubjection to God; <hi>I came not of my ſelf, but he</hi> (that is, God) <hi>ſent me.</hi>
+            </p>
+            <p>Chriſt alſo diſtinguiſheth himſelf from God, <hi>Lu.</hi> 18.18, 19. <hi>And a certain ruler, asked him, ſaying, Good Maſter, what ſhall I doe to inherit eternall life? Jeſus anſwered, and ſaid, Why calleſt thou me good? none is good ſave one, that is,</hi> GOD. Here Chriſt affirmeth, that there is but <hi>one God,</hi> (to wit, by way of eminency) and excludes himſelf from being this one God. Why calleſt thou <hi>me</hi> Good, there is but one good, even God. Were Jeſus Chriſt the <hi>moſt High</hi> GOD, and were this a fundamentall, (as you aſſert;) it is imaginable, that Jeſus Chriſt, who came, not to condemn, but to ſave the
+<pb n="22" facs="tcp:117415:15"/>world, ſhould never ſay it, and ſhould in this place ſo much cloud it.</p>
+            <p>Secondly, now let us hear ſome teſtimonies that the <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> (who were to ſpeak nothing but what their Lord and Maſter Jeſus Chriſt did command them) have given to the thing in hand, Let <hi>Paul</hi> (as <hi>Peter</hi> was wont to doe) ſpeak for the reſt: In 1 <hi>Cor.</hi> 12.4, 5, 6. He tels us, That <hi>there are di<g ref="char:EOLhyphen"/>verſity of gifts, but the ſame <hi>Spirit;</hi> and there are differences of adminiſtrations, but the ſame <hi>Lord;</hi> and there are diver ſity of operations, but 'tis the ſame <hi>God</hi> which worketh all in all.</hi> Here the Apoſtle doth diſtinguiſh the <hi>Spirit,</hi> and the <hi>Lord,</hi> from GOD; and ſhews, that thoſe gifts which were diſtri<g ref="char:EOLhyphen"/>buted to men by the Spirit, that they might be fitted for ſeve<g ref="char:EOLhyphen"/>rall miniſtrations in the Kingdome of the Lord Chriſt, did all of them proceed from God.</p>
+            <p>The ſame Apoſtle in the ſame Epiſtle, Chap. 8.5, 6. doth as one deſigning the thing, diſtinguiſh the Lord Jeſus from God. For though there be ſaith he) <hi>that are called</hi> Gods, <hi>whether in heaven, or in earth, (as there be Gods many and Lords many) but unte us there is one</hi> GOD, <hi>even the Father, of whom are all things, and we unto him: and one Lord Jeſus Chriſt, by whom are all things, and we by him.</hi> Here we have the <hi>Apostles</hi> and <hi>Primitive</hi> Chriſtians Creed: They beleeve that there is but <hi>one</hi> GOD, (in way of eminency) to wit, the <hi>Father of whom</hi> (as the firſt cauſe) <hi>are all things,</hi> and <hi>unto whom</hi> (as the ultimate end) Saints are, and ſo all things; and that there is but <hi>one Lord,</hi> (in way of eminency, amongſt all made Lords) <hi>even Ieſus, by whom</hi> (as the great inſtrument of God) <hi>are all things, and we by him.</hi> See <hi>Epheſ.</hi> 4.4, 5, 6. where a plain diſtinction is made betwixt the <hi>Spirit,</hi> the <hi>Lord,</hi> and GOD, But enough of this.</p>
+            <p>Obj. <hi>But Chriſt doth ſay that he is one with the Father,</hi> John 10.30.</p>
+            <p>
+               <hi>Sol.</hi> 'Tis true, Chriſt doth ſay that he and the Father are one: But one what? one <hi>Perſon?</hi> that none will aſſert. But are they one God, <hi>one Eſſence:</hi> Yea, that's the thing, which many will ſubſcribe to, as Chriſts meaning here. But did Chriſt intend to ſignifie that? Doubtleſs no, which ap<g ref="char:EOLhyphen"/>pears,
+<pb n="23" facs="tcp:117415:15"/>not only from the abſurdity of the thing, but alſo evi<g ref="char:EOLhyphen"/>dently from Chriſts vindication of himſelf from the accuſation of the Phariſees, who misconſtruing of this did miſ-inferre, from this ſaying of his, <hi>I and my Father are one.</hi> In this vin<g ref="char:EOLhyphen"/>dication we may obſerve:</p>
+            <p>Firſt, that Chriſt denies the Premiſe of their concluſion. They concluded that he ſpake <hi>blaſphemy,</hi> (and therefore went about to ſtone him) becauſe (as they underſtood) he made himſelf God, to wit, the <hi>moſt High God</hi>) and ſo made <hi>more Gods then one, Verſe</hi> 33. This Chriſt denies, affirm<g ref="char:EOLhyphen"/>ing that his ſaying did amount to no more then this, <hi>The ſonne of God, verſe</hi> 36. that is, Gods <hi>repreſentative.</hi>
+            </p>
+            <p>Secondly, Chriſt aſſerts the lawfulneſs of his ſaying, by an argument drawn <hi>à minori ad majus,</hi> from the leſs to the greater. <hi>If they to whom the Word of</hi> GOD <hi>came,</hi> (to wit, the Judges of the great Synedrion, who received a commande<g ref="char:EOLhyphen"/>ment from God to judge the people of Iſrael) <hi>were without blasphemy called</hi> Gods: <hi>then he whom the Father hath ſan<g ref="char:EOLhyphen"/>ctified and ſent into the world</hi> (to have dominion over all man<g ref="char:EOLhyphen"/>kinde) <hi>may without blasphemy be called</hi> God, <hi>or the Son of</hi> God. <hi>But they to whom the word of God came were called Gods:</hi> This Chriſt proves from <hi>Pſalm</hi> 82.6. Jeſus anſwered and ſaid, <hi>Is it not written in your Law, I ſaid ye are</hi> Gods, <hi>verſe</hi> 34. <hi>Therefore he that the Father hath ſanctified and ſent into the world, may without blaſphemy be called</hi> God, or the <hi>Son of</hi> GOD. That this might be applyed to Chriſt, Chriſt himſelf appeals to his works, ſending the Phariſees thither, to ſatisfy themſelves, that he was ſent of the Father. <hi>If I doe not</hi> (ſaith he) <hi>the works of My Father, beleeve me not: But if I doe, though ye beleeve not me, beleeve the works: that ye may know and beleeve that the Father is in me, and I in him, verſe</hi> 37, 38.</p>
+            <p>Thirdly, he declares his inferiority to God; in that he ſaith, that the Father <hi>ſanctified</hi> and <hi>ſent</hi> him into the world, that is, <hi>prepared</hi> and <hi>gave</hi> him a Commandement for the exerciſe of a very great authority, <hi>ver.</hi> 36.</p>
+            <p>Hence may be eaſily ſeen by a judicious ey, that Chriſt inten<g ref="char:EOLhyphen"/>ded not by this ſaying of his, <hi>I and my Father are one,</hi> to hold
+<pb n="24" facs="tcp:117415:16"/>himſelf <hi>equall to the Father,</hi> or <hi>one</hi> in Eſſence with him. But how are we then to underſtand the words? This ſentence, <hi>I and my Father are one,</hi> admits of this meaning. I and my Father are one in work; the ſame work that I doe, my Father he doth alſo. The like phraſe by the conſent of all is taken in the like ſenſe, 1 Cor. 3.8. <hi>Now he that planteth, and he that watereth are one:</hi> How one, unleſs in work? The con<g ref="char:EOLhyphen"/>text will conſtrain us (if we conſider it well) to baptize Chriſts expreſſion into the ſame acceptation. For the words in diſpute cloſe up a glorious diſcovery of that gracious pro<g ref="char:EOLhyphen"/>tection, which Chriſt affords to the ſheep of his Paſture, which alſo he affirms to be the work of his Father: and ſo in work they are one.</p>
+            <p>Now who can hinder the drawing up of this concluſion, <hi>That whole Chriſt is a Creature?</hi>
+            </p>
+            <p>The ſecond Argument contributing ſomething to this Poſi<g ref="char:EOLhyphen"/>tion, That whole Chriſt is a Creature, now follows:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>2</label> 
+               <hi>He that lives by another is a Creature: But whole Chriſt lives by another: Therefore whole Chriſt is a Creature.</hi>
+            </p>
+            <p>That God lives of himſelf is a generall and undeniable Maxime: Wherefore I ſhould but waſte time, if I ſhould ſpend time in the confirmation of this, that he is a creature who lives not by himſelf but by another.</p>
+            <p>But for the <hi>Minor,</hi> That whole Chriſt lives of another, there is need of proof. That ſcripture, which without ſtammering doth ſpeak it forth, is, John 6.57. <hi>As the living Father hath ſent me, and I live by the Father: ſo he that eateth me, even he ſhall live by me.</hi> Here Chriſt ſpeaks no parable, but plainly ſhews us, that life is originally in the Fa<g ref="char:EOLhyphen"/>ther; and that he himſelf is ſent by, and ſo ſubject to the Father; and that he lives (not by the God-head as united in one perſon with the Man hood, but) by the Father: even as beleevers live by him, in that they doe not immediately de<g ref="char:EOLhyphen"/>rive their life from the Father, but mediately through the Son. Therefore whole Chriſt is a Creature.</p>
+            <p>The third Argument, which takes part with the foregoing, appears clothed with theſe expreſſions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>3</label> 
+               <hi>He that hath what he hath from another, is a Creature.</hi>
+            </p>
+            <pb n="25" facs="tcp:117415:16"/>
+            <p>
+               <hi>But whole Chriſt hath what he hath from another.</hi>
+            </p>
+            <p>
+               <hi>Therefore whole Chriſt is a creature.</hi>
+            </p>
+            <p>The Major is as clear as the Sun ſhining at noon day, the truth whereof men need not put on ſpectacles to ſee: where<g ref="char:EOLhyphen"/>fore I ſhall paſs by it as needleſs to be ſpoken to, and haſten to the Minor, which doubtleſs ſome will deny, That what Chriſt hath, what he hath received from another the Scripture doth abundantly ſpeak, and bear witneſs to. Chriſt confeſ<g ref="char:EOLhyphen"/>ſeth that all things are delivered to him of the Father, <hi>Luke</hi> 10.22. <hi>The Father</hi> (ſaith <hi>John</hi> the Baptiſt) <hi>loveth the Son, and hath given all things into his hand, John</hi> 3.35. That this may be more evident, I ſhall inſtance in a few particulars, and therein confine my ſelf to the Authority and ſufficiency of Je<g ref="char:EOLhyphen"/>ſus Chriſt, which are the main, and things including in them all the reſt.</p>
+            <p n="1">1. I ſhall begin with Chriſts Authority, which though it be exceeding great and glorious; Chriſt being a <hi>God,</hi> a <hi>King of Kings,</hi> and <hi>Lord of Lords,</hi> and having a <hi>name</hi> or <hi>autho<g ref="char:EOLhyphen"/>rity</hi> above every name that is named, not onely in this world, but alſo in that which is to come, yet it is <hi>derived</hi> from, and <hi>ſubjected</hi> to the power and authority of another. He is a <hi>Lord,</hi> but <hi>Peter</hi> tells us that he is a <hi>made Lord, Acts</hi> 2.36. <hi>Therefore let the houſe of Iſrael</hi> (ſaith he) <hi>Know aſ<g ref="char:EOLhyphen"/>ſuredly, that God hath made that ſame Ieſus, whom ye have crucified, both Lord and Chriſt.</hi> He was appointed and a<g ref="char:EOLhyphen"/>nointed by the Father both for the having and exerciſing of Soveraign Authority and power, <hi>Heb.</hi> 1.2. with the ninth of the ſame <hi>chap.</hi> both which places (as all confeſs) ſpeak of Chriſt in the higheſt conſideration. <hi>Paul, Epheſ.</hi> 1.20, 21, 22. doth plainly informus, that the <hi>Father of Glory</hi> (whom he calls, <hi>v.</hi> 17. <hi>the God of our Lord Ieſus Christ</hi>) <hi>having rai<g ref="char:EOLhyphen"/>ſed up Chriſt from the dead, did ſet him at his own right hand in the Heavenly places far above all Principality and Pow<g ref="char:EOLhyphen"/>er, and Might and Dominion, and every name that is named, not onely in this world, but in that which is to come, and hath put all things under his feet, and gave him to be the Head o<g ref="char:EOLhyphen"/>ver all things to the Church.</hi>
+            </p>
+            <p>That his Name, Power, or Authority, was by gift, doth
+<pb n="26" facs="tcp:117415:17"/>with the greateſt evidence ſhine forth from <hi>Matth.</hi> 28.18. and <hi>Phil.</hi> 2.9.</p>
+            <p n="2">2. Now let us come to the next thing, the Sufficiency of Jeſus Chriſt, which though it be All-ſufficient in reference to his Work and Offices, yet is not Originally his, but from ano<g ref="char:EOLhyphen"/>ther, as the Fountain thereof. I ſhall illuſtrate this in ſome few particulars.</p>
+            <p>
+               <hi>Firſt, Chriſts ſufficiency to inſtruct in Doctrine was from another; All the treaſures of wiſdome and knowledge are hid in Jeſus Chriſt,</hi> Col. 2.3. And his lips have abundantly, yea, ſufficiently dropt the honey and the honey comb, I mean the doctrine of the Goſpel.</p>
+            <p>This Doctrine was not Originally his, he enjoyed it be<g ref="char:EOLhyphen"/>ing conveighed from another to him, and did by the aſſiſt<g ref="char:EOLhyphen"/>ance of another, teach and publiſh the ſame. Chriſt him<g ref="char:EOLhyphen"/>ſelf affirms, that the Doctrine he taught was not his own, but his that ſent him; that it was of God, and that he ſpake not of himſelf, <hi>Joh.</hi> 7.16, 17.</p>
+            <p>He received what he hath delivered unto us. <hi>Grace was poured into his lips,</hi> Pſal. 45.2. <hi>He teſtifies what he hath ſeen, and heard,</hi> as in <hi>John</hi> 3.32. <hi>What he hath ſeen and heard, that he teſtifieth, and no man receiveth his teſtimo<g ref="char:EOLhyphen"/>ny,</hi> ſaid <hi>Iohn</hi> the <hi>Baptiſt;</hi> This was ſpoken of Chriſt who came from Heaven, as is evident from the precedent verſe; To this Chriſt bears witneſs in that ſaying of his to his Di<g ref="char:EOLhyphen"/>ſciples, <hi>Iohn</hi> 15.15. <hi>Henceforth I call you not ſervants, for the ſervant knoweth not what his Lord doth;</hi> But <hi>I have called you friends: for all things that I have heard of my Father, I have made known unto you.</hi> That which Chriſt by the Angel ſignified to <hi>Iohn,</hi> God gave him <hi>Rev.</hi> 1.1. He alſo in the work was aſſiſted by another. <hi>The Spi<g ref="char:EOLhyphen"/>rit of the Lord was upon him, becauſe he had anointed him to preach the Goſpel to the poor, &amp;c.</hi> Luke 4.18.</p>
+            <p>
+               <hi>Secondly, His ſufficiency to effect Miracles was from another.</hi>
+            </p>
+            <p>The teſtimony that Chriſt gives of himſelf, we may without ſcruple receive. <hi>The Son</hi> (ſaith he) <hi>can do nothing of him<g ref="char:EOLhyphen"/>ſelf,</hi> John 5.19. he was Gods inſtrument in the Miracles
+<pb n="27" facs="tcp:117415:17"/>wrought by him, <hi>Acts</hi> 2.22. <hi>Yee men of</hi> Iſrael (ſaith <hi>Peter</hi>) <hi>hear theſe words, Ieſus of Nazareth a man approved of God, among you, by Miracles, Wonders, and Signes, which God did by him in the midſt of you, as yee your ſelves alſo know, &amp;c.</hi> So that God the Father was the Principall Agent in all theſe Miracles, which Chriſt wrought or effected, which is farther confirmed by Chriſts ſaying, <hi>Iohn</hi> 14.10.</p>
+            <p>
+               <hi>Believest thou not that I am in the Father, and the Fa<g ref="char:EOLhyphen"/>ther in me? The words that I ſpeak unto you, I ſpeak not of my ſelf, but the Father that dwelleth in me, He doth the Work.</hi> In that the power by which Chriſt did work was the power of God, as is manifeſt from <hi>Matth.</hi> 12.28. <hi>But if I,</hi> (ſaith Chriſt) <hi>in Gods Spirit</hi> (ſo in the Original) <hi>caſt out Devils, Then is the kingdome of God come unto you.</hi> By Gods Spirit, we are not here to underſtand the Holy Ghoſt, but the <hi>Power of God,</hi> which was preſent with Chriſt for his aſſiſtance: as will manifeſtly appear by comparing with this Text, <hi>Luke</hi> 11.20. where the ſame ſpeech is thus repreſen<g ref="char:EOLhyphen"/>ted; <hi>But if I in</hi> (or by) <hi>Gods finger caſt out Devils, doubt<g ref="char:EOLhyphen"/>leſs the Kingdome of God is come unto you.</hi> The finger of Gods power manifeſted in operation, as in <hi>Exod.</hi> 8.19. the like phraſe in the like ſenſe is uſed. And therefore Chriſt is ſaid to do Miracles, (not becauſe he was God but) becauſe God was with him, <hi>Acts</hi> 10.38. He did his Miracles in his Fathers name, <hi>John</hi> 10.25. When the Jews deſired Chriſt to tell them plainly, whether he were the Chriſt: the text tells us, that Jeſus anſwered thus; I <hi>told you, and yee believed not; The works that</hi> I <hi>do in my Fathers Name, they bear witneſs of me:</hi> Whereby Chriſt owned the Fathers Autho<g ref="char:EOLhyphen"/>rity over him, and acknowledged that his power to work was from him: As the Apoſtles did in reference to Chriſt by doing miracles in his name, <hi>Ast.</hi> 3.6. The works Chriſt did, the Father gave him to finiſh, that they might beare witneſs (not that he was God, but) that the Father ſent him, <hi>Jo.</hi> 5.36. <hi>But I have greater witneſs</hi> (ſaith Chriſt) <hi>then that of</hi> John; <hi>for the works which the Father hath given me to finiſh, the ſame works that I do, bear witnes of me, that the Father hath ſent me.</hi> And the Riſe of all was (not his merits, but) the Fathers Love, <hi>John</hi> 5.20.</p>
+            <pb n="28" facs="tcp:117415:18"/>
+            <p>Thirdly, <hi>His ſufficiency to beſtow the ſpirit was from a<g ref="char:EOLhyphen"/>nother.</hi>
+            </p>
+            <p>The ſpirit is principally from the Father, wherefore Chriſt prayed to the Father for it, <hi>Iohn</hi> 14.16. And the Father ſent the Spirit in Chriſts name, <hi>Iohn</hi> 14.26. And Chriſt having received of the Father the promiſe of the Holy Ghoſt, ſhed it forth upon his Diſciples, <hi>Acts</hi> 2.33.</p>
+            <p>Fourthly and Laſtly, (to name no more) <hi>Chriſts ſufficiency to quicken the dead, is from another,</hi> John 5.21. comp. with the 26 <hi>v. The Son quickneth the dead, but it is given to him to have life in himſelf.</hi>
+            </p>
+            <p>
+               <hi>Now why may not this Concluſion, [therefore whole Chriſt is a creature,]</hi> appear with boldneſs, being uſher'd in with ſo ſtrong a guard as the precedent Argument is?</p>
+            <p>The fourth Argument which drives on the ſame deſigne, now puts forth its hands to the work.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>4</label> 
+               <hi>He that acteth in obedience to another, is a creature.</hi>
+            </p>
+            <p>
+               <hi>But whole Chriſt acteth in obedience to another.</hi>
+            </p>
+            <p>
+               <hi>Chriſt is the Head of the Church, but God is the Head of Chriſt,</hi> 1 Cor. 11.3.</p>
+            <p>
+               <hi>The Father is the God, and Father of our Lord Ieſus Chriſt.</hi> Chriſt is called Gods Servant, <hi>Eſay</hi> 42.1. And is ſaid to be ſent of the Father, <hi>Iohn</hi> 10.36. Now the Maſter is greater then the Servant, and he that ſends, then he that is ſent, <hi>Iohn</hi> 13.16. He came in his Fathers name, <hi>Iohn</hi> 5.43. He came into the world to do the will of God, <hi>Heb.</hi> 10.7. <hi>Lo I come to do thy will, O God.</hi> He himſelf was not this God, but the Father was this God, whoſe will Chriſt came to do: For he came not to do his will, but the Fathers, <hi>Iohn</hi> 6.38, 39. <hi>I came down from Heaven, not to do mine own will, but the will of him that ſent me, and this is the Fathers will, which hath ſent me, that of all which he hath given me, I ſhould loſe nothing, &amp;c.</hi> The Authority and Directory of Jeſus Chriſt was the Fathers Commandment, <hi>Iohn</hi> 12.49, 50. <hi>I have not</hi> (ſaith Chriſt) <hi>spoken of my ſelf; but the Father which hath ſent me, he gave me a Commandment what I ſhould ſay, and what I ſhould speak, and I know that his Command ment is life everlaſting: Whatſoever I speak therefore, even as the Father ſaid untome, ſo I ſpeak:</hi>
+            </p>
+            <pb n="29" facs="tcp:117415:18"/>
+            <p>Therefore whole Chriſt is a creature.</p>
+            <p>The Argument, which at this time is appointed to bring up the rear, witneſſeth what hath been ſaid by the former, to wit,</p>
+            <p>That whole Chriſt is a creature.</p>
+            <p>
+               <hi>He that acteth with dependance on another, is a crea<g ref="char:EOLhyphen"/>ture.</hi>
+            </p>
+            <p>
+               <hi>But whole Chriſt acteth with dependance on another.</hi>
+            </p>
+            <p>
+               <hi>Therefore whole Chriſt is a creature.</hi>
+            </p>
+            <p>No man is ſo Independant in reſpect of ſenſe and rea<g ref="char:EOLhyphen"/>ſon as to deny the <hi>Major:</hi> Wherefore let us ſee, whether Scripture, (which in no part thereof is an enemy unto Rea<g ref="char:EOLhyphen"/>ſon) will vote for the <hi>Minor.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>5</label> That whole Chriſt acteth with dependance on another, is made evident from his <hi>Petitions</hi> and <hi>Profeſſions,</hi> of which the Scripture is not ſilent.</p>
+            <p n="1">1. Let us take a view of Chriſts <hi>Petitions;</hi> Chriſt prays to another, and thereby ſhews his dependance on another. In the work of our Redemption we ſhall finde Chriſt buſie in the work of Prayer. See that Prophecy of Chriſt which you have in the 22 Pſalm, and you will preſently ſee the truth of the thing aſſerted. Reflect your eyes on the 11 <hi>verſe,</hi> and there ſhall you hear Chriſt praying thus: <hi>Be not far from me, for trouble is near, for there is none to help,</hi> and ſo on to the 19 <hi>ver.</hi> where again he doth breath forth the requeſts of his heart. <hi>Be not far from me, ô Lord, ô my ſtrength, haſt thee to help mee, &amp;c.</hi> Adde to this Prophecy the Authour to the <hi>Hebrews</hi> teſtimony, concerning its fulfilling, <hi>Heb.</hi> 5.7. <hi>Who</hi> (that is, Chriſt) <hi>in the days of his fleſh, when he had offered up Prayers and Supplications, with ſtrong crying and tears, unto him that was able to ſave him from death, and was heard in that he feared.</hi> So in his working of Miracles, we finde him in the ſame work of Prayer, <hi>Mark</hi> 7.34. and that to the Father as is clear from <hi>Iohn</hi> 11.41, 42.</p>
+            <p n="2">2. Now for Chriſts <hi>Profeſſions,</hi> Chriſt profeſſeth that God is the object of his dependance, <hi>Pſal.</hi> 16.1. <hi>Preſerve me, O God, for in thee do I put my truſt.</hi> And he profeſſeth that the ground of his confidence was anothers aſſiſtance,
+<pb n="30" facs="tcp:117415:19"/>
+               <hi>Pſal.</hi> 16.8, 9. <hi>I have ſet the Lord always before me: becauſe he is at my right hand, I ſhall not be moved. Therefore my heart is glad, and my glory rejoyceth, my fleſh alſo ſhall reſt in hope, &amp;c.</hi> Alſo in <hi>Eſay</hi> 50.7. <hi>The Lord God will help me, therefore ſhall I not be confounded, therefore have I ſet my face as a flint; and I know that I ſhall not be aſhamed, &amp;c.</hi>
+            </p>
+            <p>The <hi>Minor</hi> being made clear, the Concluſion will not hide its face. <hi>Therefore whole Chriſt is a Creature.</hi> Thus I have done with the third Poſition, and ſo have brought my An<g ref="char:EOLhyphen"/>ſwer relating to <hi>John</hi> the 8. &amp; 58. unto a period:</p>
+            <p>WHerefore I ſhall now ſcan the Scripture which meeteth us next, which is <hi>Rev.</hi> 1.8:</p>
+            <p>
+               <hi>Anſw.</hi> From this Text you would inferr:<note place="margin">Rev. <hi>1.8.</hi> Anſw.</note> 
+               <hi>that Jeſus Christ is the moſt High God:</hi> and that doubtleſs for this cauſe. Becauſe <hi>Chriſt</hi> here ſpeaking of himſelf, doth appropriate to himſelf terms equivalent to that of <hi>moſt high God:</hi> But Sir, how can you demonſtrate that theſe are the words of <hi>Chriſt;</hi> and that they are here appropriated, and do relate to him? You peradventure will ſay, that the thing is evident, in that he is called <hi>the Lord,</hi> who here ſpeaks, and to whom thoſe Titles are applied. If this be your demonſtration it is full of darkneſs, and helps nothing to reſolve the ſcruple: For <hi>God</hi> or the <hi>Father</hi> diſtinct from <hi>Chriſt</hi> is called the <hi>Lord, Acts</hi> 3.19, 20. <hi>chap.</hi> 4.26. And frequently in this Book of the <hi>Reve<g ref="char:EOLhyphen"/>lation.</hi> To this Title you will (it may be) add the teſtimony of learned Interpreters, who take the words as ſpoken by <hi>Chriſt</hi> and <hi>of himſelf.</hi>
+               <note place="margin">Confirmatio ſa<g ref="char:EOLhyphen"/>lutis praecedentis à dei ipſius ver<g ref="char:EOLhyphen"/>bis: quae ſua<g ref="char:cmbAbbrStroke">̄</g> ope<g ref="char:EOLhyphen"/>rationem in res creatas ſingulas, aeternitatem im<g ref="char:EOLhyphen"/>mutabilè in ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe, &amp; in omnibus ſuam omnipoten<g ref="char:EOLhyphen"/>tiam aſſerit &amp; illam trinitatem quae ante lict a eſt, divinibus concluditur eſſentiae ſuaeunitate. Bez. Non negamus quoſdam etiam Orthodoxos Interpretes, Lyranum item &amp; Riberam Jeſuitam, haec Deo abſolutè, ſeu Trinitati tribueri hoc loco. Par.</note> It is true, that ſome ſo conceive of the words, but not all; <hi>Beza</hi> conceives that theſe words are ſpoken of God abſolutely taken. <hi>Pareus</hi> confeſſeth that certain Ortho<g ref="char:EOLhyphen"/>dox Interpreters do attribute the word to God as they conſi<g ref="char:EOLhyphen"/>him abſolutely: And therefore if our faith be built upon the ſayings of men, we ſhall not here know what to believe. Wherefore we muſt betake our ſelves to Reaſon, whereby the ſpirit may convince us, of whom the Text in controverſie is to
+<pb n="31" facs="tcp:117415:19"/>be underſtood. That it is to be underſtood of the <hi>Father</hi> theſe Reaſons may help forwards to ſatisfaction.</p>
+            <p n="1">1. Becauſe this Text declares the principal Authour of thoſe things, which <hi>John</hi> the Divine was to communicate to the <hi>ſeven Aſian Churches.</hi> For theſe words begin a new mat<g ref="char:EOLhyphen"/>ter, and are no part of the ſalutation. They ſpeak of God even the Father, who is of higheſt Authority, and from whom ori<g ref="char:EOLhyphen"/>ginally this Revelation was. <hi>Chriſt</hi> he is ſpoken of <hi>verſe</hi> the 11. and is to be conſidered as the <hi>Principal Inſtrument</hi> in conveying this Revelation to the Churches: for God gave it to him, to ſhew unto his ſervants thoſe things, which were ſhortly to come to paſs, <hi>verſe</hi> 1.</p>
+            <p n="2">2. Becauſe thoſe Titles are no where in the Scripture attri<g ref="char:EOLhyphen"/>buted to <hi>Jeſus Chriſt.</hi> He is indeed call'd <hi>Alpha</hi> and <hi>Omega,</hi> the firſt and laſt, <hi>verſe</hi> 11. but not <hi>Alpha</hi> and <hi>Omega,</hi> as ſigni<g ref="char:EOLhyphen"/>fying the beginning and the end.</p>
+            <p n="3">3. Becauſe the terms in the Text are elſewhere apparently and profeſſedly given to <hi>God the Father,</hi> diſtinct from the <hi>Son.</hi> He is called <hi>Alpha</hi> and <hi>Omega,</hi> the beginning and the end, <hi>Rev.</hi> 21.5, 6. <hi>And he that ſate upon the throne ſaid, be<g ref="char:EOLhyphen"/>hold, I make all things New, And he ſaid unto me Write: for theſe words are true and faithfull: And he ſaid unto me, it is done, I am Alpha and Omega the beginning and the end, &amp;c.</hi> The Angel uſeth the ſame phraſe <hi>Rev.</hi> 22.13. And doubtleſs in the ſame manner. In the fourth verſe of this firſt Chapter: the Father (as all men acknowledge) is ſaid to be, <hi>He that is, he which was, and he which is to come.</hi>
+            </p>
+            <p>THe Scripture which follows, and is now to be conſider<g ref="char:EOLhyphen"/>ed of, is <hi>John</hi> 1.1. <hi>In the beginning was the Word,</hi>
+               <note place="margin">
+                  <hi>John</hi> 1.1.</note> 
+               <hi>and the Word was with God, and the Word was God.</hi>
+            </p>
+            <p>Expoſitors on this Text uſually bring forth <hi>Platoes</hi> invent<g ref="char:EOLhyphen"/>ed terms, whereby they do not a little cloud the ſimplicity of the Word of Truth. The words may be thus read. <hi>In the begin<g ref="char:EOLhyphen"/>ning was the Word, and the Word was with the God, and the Word was a God.</hi> And they may have this ſenſe, <hi>In the begin<g ref="char:EOLhyphen"/>ning</hi> (in the firſt part of time) <hi>was the Word,</hi> (<hi>Ieſus Chriſt</hi> according to the ſpirit of holineſs did exiſt) <hi>And the Word was
+<pb n="32" facs="tcp:117415:20"/>with the God</hi> (This <hi>Jeſus Christ</hi> was a delight to the moſt high God, and did converſe with him) <hi>and the Word was a God.</hi> (This <hi>Ieſus Chriſt</hi> had power committed to him, where<g ref="char:EOLhyphen"/>by he might repreſent the Moſt High God.)</p>
+            <p>Now for your inference from the Text, <hi>that Ieſus Chriſt is the moſt high God.</hi>
+            </p>
+            <p n="1">1. I anſwer that nothing is found in the Text, that doth aſ<g ref="char:EOLhyphen"/>ſert <hi>Ieſus Chriſt</hi> to be the <hi>moſt high God?</hi> He is called GOD, 'tis true; but what of that? Will neceſſity bring in this Concluſion,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Juſt. Mart. p. <hi>490.</hi>
+               </note> that he is the <hi>moſt high God?</hi> Nothing leſſe: For the name (as it hath been ſhewed before) is common with God and Creatures. To what hath been ſaid, I ſhall onely add a ſaying of <hi>Juſtin Martyrs,</hi> Whatſoever Angels (ſaith he) have appeared in the place of God, or acted with men, they have obtained the name of God, as he which ſpake with <hi>Iacob</hi> and <hi>Moſes:</hi> Yea, and men alſo are called Gods; but this appellation is granted to both, for ſome Office commit<g ref="char:EOLhyphen"/>ted to them, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. That ſomething may be found in this Text to deny <hi>Ieſus Chriſt</hi> to be the <hi>moſt high God:</hi> he is here diſtinguiſhed from <hi>God:</hi> for the Text ſaith, the Word was <hi>with God:</hi> and ſo he was diſtinct from <hi>God.</hi> That the Phraſe notes out a diſtinction all men grant; I ſhall leave Reaſon to draw up the Concluſi<g ref="char:EOLhyphen"/>on; therefore <hi>Jeſus Chriſt is not the most high God. God</hi> can<g ref="char:EOLhyphen"/>not be diſtinguiſhed from himſelf, therefore he that is diſtin<g ref="char:EOLhyphen"/>guiſhed from <hi>God</hi> muſt be conſidered under another notion. But ſome do infer from this diſtinction that which they call <hi>perſonality,</hi> (which hath already been ſpoken to) taking God in the firſt place to ſignifie the <hi>Perſon</hi> of the Father, who is wont (ſay they) to be called <hi>God</hi> in way of <hi>eminency;</hi> a ſtrange ſaying in the mouths of thoſe, who hold Co-equality amongſt the Perſons in the Trinity.</p>
+            <p>And alſo <hi>Chriſt</hi> is here differenced from <hi>the moſt high God:</hi> in that he is called a <hi>God,</hi> but he with whom he was <hi>The God</hi> in way of eminency: the omiſſion of the Article is not a lit<g ref="char:EOLhyphen"/>tle conſiderable. That which you add from the third verſe of this Chapter, will finde elſewhere a fitter place to receive an Anſwer in.</p>
+            <pb n="33" facs="tcp:117415:20"/>
+            <p>NOw I come to <hi>Matth.</hi> 28.20.<note place="margin">
+                  <hi>Matth.</hi> 28.20.</note> 
+               <hi>Lo I am with you al<g ref="char:EOLhyphen"/>ways to the end of the world.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Sir, from the ſcope of your Paper it is eaſily ſeen what you would inferr hence; but as yet the Reaſon of your inference lies in the dark: the meaning of this phraſe, <hi>I am with you al<g ref="char:EOLhyphen"/>ways unto the end of the World;</hi> is no more then this, I will do you good, whileſt ye remain imploy'd in my work. My Authour in this Expoſition is old <hi>Jacob,</hi> no bad Interpreter, <hi>Gen.</hi> 31.3. the Lord commanded <hi>Jacob</hi> to return into the Land of his Fathers, and to his kindred, and for his encou<g ref="char:EOLhyphen"/>ragement adds to the promiſe thus, <hi>I will be with thee:</hi> which <hi>Jacob</hi> in <hi>chap.</hi> 32.9. thus expounds, <hi>I will deal well with thee,</hi> or <hi>I will do thee good. Jeſus Chriſt</hi> is preſent with his Meſſen<g ref="char:EOLhyphen"/>gers, or deals well with them, when he doth inſtruct, com<g ref="char:EOLhyphen"/>fort, ſtrengthen, or protect them: and all theſe works he doth in his abſence by his ſpirit, whom the Father hath ſent in his Name, <hi>Joh.</hi> 14.26. Let me only (for brevity ſake) inſtance in the work of inſtruction. <hi>Chriſt</hi> inſtructed his Apoſtles, but not immediately; for the ſpirit which came in <hi>Chriſts</hi> Name, and received of his, was the Inſtrument, by which <hi>Jeſus Chriſt</hi> did the work, <hi>John</hi> 16.13, 14, 15. <hi>When he the ſpirit of truth is come, he will guide you into all truth; for he ſhall not ſpeak of himſelf: but whatſoever he ſhall hear that ſhall he ſpeak, and he will ſhew you things things to come. He ſhall glorifie me: for he ſhall receive of mine, and ſhall ſhew it unto you, all things that the Father hath are mine: therefore ſaid I,</hi>
+               <note place="margin">Hic locus de mo<g ref="char:EOLhyphen"/>do praeſeutiae ſpi<g ref="char:EOLhyphen"/>ritus quo ſe ſua<g ref="char:EOLhyphen"/>que nobis com<g ref="char:EOLhyphen"/>municat: caete<g ref="char:EOLhyphen"/>rum corpore ab<g ref="char:EOLhyphen"/>eſt. Beza in loc.</note> 
+               <hi>he ſhall take of mine, and ſhall ſhew it unto you. Christ</hi> is now in Heaven, ſitting at the right hand of God, and is preſent with the Saints in Earth by the ſpirit, and glorious influences of grace and mercy, <hi>John</hi> 14.16, 17, 18. This kinde of preſence by the ſpirit <hi>Beza</hi> and others underſtand to be intended in <hi>Matth.</hi> 28.20.</p>
+            <p>
+               <hi>REv.</hi> 2.2. is now to be minded,<note place="margin">Rev. 2.2.</note> whether it doth joyn with the fore-going Texts, in ſpeaking any thing by way of Juſtification to your Aſſertion or not.</p>
+            <p>
+               <hi>Anſw. Christ could not</hi> (ſay you) <hi>at ſo great a diſtance know all the works of the Churches as meer man.</hi>
+            </p>
+            <pb n="34" facs="tcp:117415:21"/>
+            <p>What could he not? Is any thing too hard for the Lord? What could the Prophet <hi>Eliſha</hi> know at a very great diſtance, what the King of <hi>Syria</hi> ſaid in his bed-chamber? And yet cannot <hi>Chriſt</hi> know at a diſtance? <hi>He hath the ſpirit</hi> (to wit wiſedom, power, <hi>&amp;c.</hi>) <hi>given him without meaſure, John</hi> 3.34.</p>
+            <p>And therefore can know beyond what we can conceive: And yet is not the moſt high God, for his knowledge is of another, <hi>John</hi> 5.30. <hi>I can of mine own ſelf do nothing; as I hear, I judge; and my judgement is juſt, becauſe I ſeek not mine own will, but the will of the Father which hath ſent me.</hi> Though he always knew all things neceſſary for the perfect diſcharge of his Offices; yet there was a time when he was excluded from the knowledge of the hour and day of judge<g ref="char:EOLhyphen"/>ment, <hi>Mark</hi> 13.32. The words from the Greek are theſe: <hi>But of that day and hour no one knoweth, neither the Angels which are in Heaven.</hi> Nor the <hi>Son,</hi> unleſs the <hi>Father.</hi> Hence it is plain, that the Father onely knew the day and hour of Judgement, and that the <hi>Son himſelf</hi> was at that time exclu<g ref="char:EOLhyphen"/>ded from the knowledge of it; therefore this knowledge was not originally of himſelf nor always perfect.</p>
+            <p>
+               <hi>COl.</hi> 1.15.<note place="margin">Col. 1.15.</note> I finde next in your Paper, but have already ſpoken to it; yet was willing here to mention it; leaſt you ſhould think I had forgot it. Sir, this Text you ſay, holds forth the <hi>Eternal Generation of Jeſus Chriſt.</hi> I pray conſider it again, and by your next let me hear what part thereof it is in which <hi>Chriſts Eternal Generation</hi> may be ſeen.</p>
+            <p>THe next Scripture is <hi>Col.</hi> 1.16.<note place="margin">Col. 1.16. <hi>with</hi> John 1.3.</note> 
+               <hi>To which I ſhall add John</hi> 1.3. <hi>being reſerv'd for this place.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Sir, here you harp upon two other ſtrings, and think they ſound that alowd in your ears which you have entertained in your thoughts, to wit, that <hi>Jeſus Chriſt is the moſt high God.</hi> But pray Sir, conſider whether your Conclu<g ref="char:EOLhyphen"/>ſion be the Eccho of thoſe Texts, or elſe of your own thoughts onely. But you ſeem to gather this Argument from the words to manifeſt the verity of your thoughts.</p>
+            <p>
+               <hi>He by whom all things were made is the moſt high God. But
+<pb n="35" facs="tcp:117415:21"/>all things were made by Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Therefore Ieſus Chriſt is the moſt High God.</hi>
+            </p>
+            <p>I ſhall anſwer to your Major by diſtinguiſhing betwixt the Agent Principall and Inſtrumental. That there may be in one and the ſame work, one Principal and another Inſtrumen<g ref="char:EOLhyphen"/>tall Agent none will deny. But whether there were in the work of Creation one Principall, and another Inſtrumentall, is a thing to be proved. That the <hi>Father</hi> was Principall therein, and ſo the <hi>moſt high God,</hi> comes not under debate. But whether the <hi>Son</hi> was onely Inſtrumental in that great work of Creation, is the Controverſie, and muſt be the ſubject of our preſent inquiry. I affirm, that <hi>Ieſus Chriſt was onely an Inſtrumentall Agent in the Creation of the worlds.</hi>
+            </p>
+            <p>The Reaſons by which, I ſhall at this time guard mine aſſertion from ſuſpition of errour, are theſe that follow.</p>
+            <p>The firſt is drawn from the ſilence of all creatures. The book of the Creatures, as well as the book of the Scriptures,<note place="margin">Ex Creatioue agnoſcitur De<g ref="char:EOLhyphen"/>us, ſed non Deus pater, fil. &amp; ſpir. ſi quoni im vis illa efficiens quia mundus fuit creatus, per<g ref="char:EOLhyphen"/>tinet ad Eſſen<g ref="char:EOLhyphen"/>tiam Dei, non ad ſubſiſtentiam ejus perſonalem, <hi>Ameſius.</hi>
+               </note> ſpeak forth with open mouth, this ſacred truth that there is one firſt cauſe, and Principall Agent of all things. Of a Trinity of Perſons in Unity of Eſſence, as Principal Agents in the work of Creation; the whole Creation is wholly ſi<g ref="char:EOLhyphen"/>lent: Wherefore our Divines acknowledg, that God is known from the Creation, but not God the Father, Son, and Holy Spirit, becauſe that efficient power, by which the world was created, belongs to the Eſſence of God, not to his perſonall ſubſiſtence.</p>
+            <p>Yet by their leave, God is a Perſon, all actions being pro<g ref="char:EOLhyphen"/>per unto perſons; and therefore by their grant, the works of Creation hold forth but one Agent, who muſt needs be the <hi>Principall</hi> (if not the only) Agent therein; for it is not imaginable, that if there were then <hi>one Principall</hi> Agent, they ſhould not all be equally diſcovered by the work, being equally concerned in it: Therefore if Chriſt were an Agent, he was but an inſtrumental one.</p>
+            <p>The Second Reaſon proceeds from the verdict of pure Reaſon. If Reaſon may obtain credit, ſhe will tell us, that there could be in the work of Creation but one Princi<g ref="char:EOLhyphen"/>pall
+<pb n="36" facs="tcp:117415:22"/>Agent, becauſe there is by nature and in way of emi<g ref="char:EOLhyphen"/>nency but one God: For if there were two <hi>Principall A<g ref="char:EOLhyphen"/>gents,</hi> there muſt be <hi>two Gods</hi> in way of eminency, (the terms being convertible) which to affirm would be abſurd, and eaſi<g ref="char:EOLhyphen"/>ly diſproved. And therefore if Jeſus Chriſt were any, he was but an Inſtrumentall Agent in that work of Creation.</p>
+            <p>The Third Reaſon iſſues from the nature of Chriſts being. That whole Chriſt is a creature, hath been already proved: yet let me adde a word from <hi>Col.</hi> 1.15. which doth immedi<g ref="char:EOLhyphen"/>ately precede the Text now in queſtion. Chriſt is there cal<g ref="char:EOLhyphen"/>led <hi>the image of the inviſible God;</hi> and ſo is diſtinguiſhed from God, becauſe the image and the thing whereof it is an image are not the ſame; in that nothing can be the image of its ſelf</p>
+            <p>Now he is called <hi>the image of the inviſible God,</hi> in that God through him did principally manifeſt and declare his Di<g ref="char:EOLhyphen"/>vine Glory, and in that the chiefeſt Dominion of the creature was by the Father committed to him; in this ſenſe man is called the <hi>image and glory of God,</hi> 1 Cor. 11.7.</p>
+            <p>He is alſo called <hi>the firſt-born of every creature;</hi> where<g ref="char:EOLhyphen"/>by he is ranked among the creatures, yet ſo as that he is the Head of them.</p>
+            <p>Now if whole Chriſt be a creature, then will it unavoida<g ref="char:EOLhyphen"/>bly follow, that he was but an Inſtrument in the work of Creation: for God and creatures are contradiſtinct, and he could not be, unleſs <hi>he</hi> were <hi>God,</hi> a Principall Agent.</p>
+            <p>The fourth Reaſon doth ſpring from the manner of Chriſts working.</p>
+            <p n="1">1. Though he had an hand in the Creation of the world, yet was it not originally of him, 1 <hi>Cor.</hi> 8.6. where the Apo<g ref="char:EOLhyphen"/>ſtle doth plainly ſhew us, <hi>that all things are of God, even the Father, and that all things are by,</hi> not <hi>of Jeſus Christ,</hi> and ſo the Son is diſtinguiſhed from the Father in the work of Creation; the Father being the firſt cauſe, and originall of all things, and Chriſt the inſtrument of the Father, by whom he did manifeſt his Divine Glory in producing creatures.</p>
+            <p n="2">2.<note place="margin">Inſtrumentum &amp; Miniſt. <hi>Ter.</hi>
+               </note> In that in the work of Creation the Scripture tells us, that God acted by him, <hi>Epheſ.</hi> 3.9. where 'tis ſaid, <hi>That
+<pb n="37" facs="tcp:117415:22"/>God created all things by Jeſus Chriſt:</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Juſt. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Theoph. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Origin.</note> So in <hi>Heb.</hi> 1.2. which openly hold forth Jeſus Chriſt as Gods inſtrument in cre<g ref="char:EOLhyphen"/>ating the world.</p>
+            <p>He is frequently called by the Fathers the Inſtrument and Servant of God.</p>
+            <p>But you endeavour to ſtrengthen your Propoſition by a Reaſon (ſuch as 'tis) drawn from impoſſibility; <hi>God could</hi> (ſay you) <hi>make uſe of no inſtrument in the work of Creati<g ref="char:EOLhyphen"/>on.</hi> But Sir, this aſſertion derogates from Gods All-ſuffici<g ref="char:EOLhyphen"/>ency. Is any thing impoſſible with God? Is any thing too hard for the Lord?</p>
+            <p n="2">2. It contradicts your own teſtimony. I remember that in a Conference (where I exerciſed both ſilence and pati<g ref="char:EOLhyphen"/>ence, to the Glory of God,) ſince I received your paper, you did affirm in the hearing of not a few, <hi>that God might at firſt have made an Angel, or ſome other creature, and by it have made all things.</hi>
+            </p>
+            <p>How to reconcile one with the other is a thing unfeaſi<g ref="char:EOLhyphen"/>ble; and therefore you muſt confeſs, that you are not al<g ref="char:EOLhyphen"/>ways infallible: yea, that ſometimes you differ from your ſelf; and ſo 'tis no wonder, if you diſagree with others. But what ſhall I take from your preſent judgement? Muſt your laſt words ſtand? If ſo, then you have weakned your cauſe; and I may ſave a labour in returning an anſwer to that, which follows in your paper: If the former, then you muſt recant what you laſt ſaid, and I muſt not here make an end of my Reply to your Major. The truth is, I honour Reaſon ſo much, that I ſhould rather proſtrate my ſelf to its ſhadow and appearance, then to the beſt mans teſtimony and aſſer<g ref="char:EOLhyphen"/>tion: wherefore I ſhall honour Reaſon ſo much as not to paſs by without examination that which appears in your pa<g ref="char:EOLhyphen"/>per, with Reaſons dreſs on it. Your Reaſon thus runs,</p>
+            <p>
+               <hi>Now becauſe Creation is a making of all things out of no<g ref="char:EOLhyphen"/>thing, and required an infinite power, God can make uſe of no Inſtrument: inaſmuch as God cannot derive and give an infinite power to any creature, becauſe no creature is capable of ſuch a Divine Attribute, for it would make him God, to be Almighty, or to be infinite in power.</hi>
+            </p>
+            <pb n="38" facs="tcp:117415:23"/>
+            <p>
+               <hi>Anſw.</hi> I ſhall not anſwer to all in this Reaſon which ſeems not to be ſound doctrine, but only ſo far as the matter in hand requires.</p>
+            <p n="1">1. Though it be true that Gods infinite power was mani<g ref="char:EOLhyphen"/>feſted in the work of Creation: yet was not the Infinity of his Power manifeſted fully in that, or any other work; for he hath more power then ever yet he had need to uſe, or then could in any work be fully declared.</p>
+            <p n="2">2. Your aſſertion plainly denies the <hi>man Chriſt Jeſus to be God; Almighty,</hi> or <hi>Infinite in power;</hi> for you ſay that God could not give or derive an infinite power to any creature, and that a creature cannot be God, Almighty, &amp;c. The man Chriſt Jeſus was a <hi>creature,</hi> how then can that Perſon be <hi>God?</hi>
+            </p>
+            <p n="3">3. The ground of your Argument is ſtraw and ſtubble; For infinite power may be manifeſted by them, to whom 'tis not communicated, and ſo their proper power; As is evi<g ref="char:EOLhyphen"/>dent in thoſe that <hi>wrought miracles and raiſed the dead,</hi> in which infinite power was manifeſted, and yet the inſtru<g ref="char:EOLhyphen"/>ments thereof were not in power infinite. The like might be ſaid of Goſpel-Preachers, whom God makes his Inſtru<g ref="char:EOLhyphen"/>ments in mens converſion, as great a work as the worlds Creation. The ſame might be ſaid of Chriſt in his work of our Redemption.</p>
+            <p>But enough of this.</p>
+            <p>I ſhall now examine your Minor, which was, <hi>That all things were made by Ieſus Christ.</hi>
+            </p>
+            <p>This is true, Chriſt being excepted, of whoſe Creatural be<g ref="char:EOLhyphen"/>ing I have already ſpoken.</p>
+            <p>
+               <hi>Obj.</hi> But you will ſay, that in <hi>Iohn</hi> 1.3. it is ſaid, <hi>That all things were made by him, and without him was nothing Made, that was Made.</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> The words are to be reſtrained to all thoſe things which by the uſe of an inſtrument were made and created. In the firſt verſe of this Chapter, the creation of Jeſus Chriſt is included, and in this third verſe he is ſpoken of as the in<g ref="char:EOLhyphen"/>ſtrument of God in creating all things, and therefore is here to be excepted. As when <hi>John</hi> the <hi>Baptist</hi> ſpeaking of Chriſt, (<hi>John</hi> 3.32.) ſaid, <hi>What he hath ſeen and heard that he teſti<g ref="char:EOLhyphen"/>fieth,
+<pb n="39" facs="tcp:117415:23"/>and no man receiveth his teſtimony;</hi> it is evident that <hi>Iohn</hi> was to be excepted. Perſons are ſometimes ſegregated from others of the ſame kinde, in way of eminency, being chief amongſt them. Thus in <hi>Pſal.</hi> 18.1. where 'tis ſaid, <hi>that</hi> David <hi>ſang that ſong, when the Lord delivered him from the hand of all his enemies, and from the hand of</hi> Saul. What, was <hi>Saul</hi> none of <hi>Davide</hi> enemies? he was the chiefeſt, and therefore ſegregated from the reſt.</p>
+            <p>Thus having taken off the Charet wheels of your Argu<g ref="char:EOLhyphen"/>ment, the Concluſion cannot advance up by its aſſiſtance.</p>
+            <p>I Come now to <hi>Heb.</hi> 7.3.<note place="margin">Heb. 7.3. <hi>Anſw.</hi>
+               </note>
+            </p>
+            <p>I perceive you are willing to gather from this Text <hi>the Eternity of Ieſus Christ;</hi> (but on this tree grows no ſuch fruit,) You ſay <hi>that Christ is here reſembled, in reference to his Eternity, to</hi> Melchiſedek, <hi>without beginning of days, or end of life.</hi> Pray Sir, was <hi>Melchiſedek</hi> Eternal? If ſo, then he was God. But he was neither <hi>the Father, nor the Son, nor the Holy Ghoſt,</hi> whatever ſome have conceived, I hope you will not allow a quaternity of Perſons in Unity of Eſſence. And therefore will allow that the words be taken in a figu<g ref="char:EOLhyphen"/>rative ſenſe.<note place="margin">Quod non nar<g ref="char:EOLhyphen"/>ratur ponitur quaſi non ſit.</note> 
+               <hi>Melchiſedek</hi> was without beginning of days or end of life, in that there is no mention made either of his birth or death, in the Hiſtory of <hi>Moſes:</hi> or eſpecially in reference to his Prieſthood, the time of its beginning and en<g ref="char:EOLhyphen"/>ding being not certainly known. So our High Prieſt Jeſus Chriſt is without beginning of days, or end of life.</p>
+            <p>YOur next Scripture is <hi>Prov.</hi> 8.22.<note place="margin">Prov. 8.22.</note>
+            </p>
+            <p>Anſw. <hi>The Lord poſſeſſed me in the beginning of his way, before his works of old: I was ſet up from Everlaſt<g ref="char:EOLhyphen"/>ing, from the Beginning, or ever the Earth was.</hi>
+            </p>
+            <p>The meaning is this,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Sept.</note> The Lord who is Poſſeſſour of Hea<g ref="char:EOLhyphen"/>ven and Earth, obtained or created me when he began to work, before all his ancient works. And I was ſet up, or anointed to have the dominion of all things, and that from Everlaſting, that is, from the Beginning, before the Earth was.</p>
+            <p>The Septuagint have the words thus: <hi>The Lord created
+<pb n="40" facs="tcp:117415:24"/>me the beginning of his ways for his works.</hi>
+               <note place="margin">Dominus acqui<g ref="char:EOLhyphen"/>ſivit me princi<g ref="char:EOLhyphen"/>pium viaeſuae, ante opera ex tunc, A ſaeculo principatum ba<g ref="char:EOLhyphen"/>bui à capite, ab initiis terrae. <hi>Mont.</hi>
+               </note> 
+               <hi>He founded me in the Beginning before the Earth was made. Montanus</hi> thus: <hi>The Lord obtained me the beginning of his way, before his works from thence; I had dominion from Everlaſting from the Be<g ref="char:EOLhyphen"/>ginning, from the beginning of the Earth.</hi>
+            </p>
+            <p>The thirtieth verſe ſpeaks of Chriſt as having a being be<g ref="char:EOLhyphen"/>fore Gods works of old; yet ſo as that it was created one.</p>
+            <p>THE Scripture which follows next in your Paper,<note place="margin">Zach. 13.7.</note> is, <hi>Zach.</hi> 13.7.</p>
+            <p>
+               <hi>Awake, O Sword, againſt my Shepheard, againſt the man that is my fellow, ſaith the Lord of Hoſts.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I ſuppoſe that you would infer hence the coe<g ref="char:EOLhyphen"/>quality of Jeſus Chriſt with the Lord of Hoſts, whoſe words thoſe are. But doubtleſs when you drew up this Concluſion, you hearkned to the ſound, not the ſenſe of our Engliſh word <hi>Fellow,</hi> which doth not always note equality, as from <hi>Pſalm</hi> 45.7. and <hi>Heb.</hi> 1.9. you may be informed, where the Saints are called the <hi>Fellows of Chriſt;</hi> from which none ac<g ref="char:EOLhyphen"/>quainted with Reaſon or Scripture will conclude their co<g ref="char:EOLhyphen"/>equality with him. Had you conſulted with the Hebrew word uſed in the Text, you would have been a ſtranger to ſo ſtrange an inference. For the words tranſlated, <hi>My Fel<g ref="char:EOLhyphen"/>low,</hi> might be rendred, <hi>My Citizen, my Neighbour, my Second,</hi>
+               <note place="margin">Hebraea vox proximum aut amicum ſonat qui ſtat è regio<g ref="char:EOLhyphen"/>ne alterius. Et praeſto eſt à e<g ref="char:EOLhyphen"/>mnia amici of<g ref="char:EOLhyphen"/>ficia compara<g ref="char:EOLhyphen"/>tus quamobrem idem in ſinu pa<g ref="char:EOLhyphen"/>tris eſſe, &amp; ad dexteram illius ſedere dicitur intercedens pro nobis. <hi>Trem. in Locum.</hi>
+               </note> 
+               <hi>my Lievtenant, my Vicar, my Friend;</hi> So the Septuagint [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] the man, <hi>my Citizen,</hi> or <hi>Neighbour. Tremelius,</hi> thus: <hi>[Virum proximum meum] The man my Second, my Lievetenant, my Neighbour, my Vicar, or the like.</hi>
+            </p>
+            <p>
+               <hi>Tremellius</hi> and <hi>Iunius</hi> in their Marginal Notes ſpeak thus. The Hebrew word (ſay they) ſignifies one that is <hi>very near,</hi> or <hi>a friend, who ſtands over againſt another, and is ready at hand for all friendly offices;</hi> wherefore the ſame, to wit, Jeſus Chriſt) is ſaid to be in the <hi>boſome</hi> of the Father, and to ſit at his <hi>right hand,</hi> interceding for us. And ſo the words acquaint us with theſe two things eſpecially,</p>
+            <p n="1">1. That Chriſt is the Principall object of Gods deareſt af<g ref="char:EOLhyphen"/>fection. The man my <hi>fellow, quem maxime amo,</hi> ſaith <hi>Gro<g ref="char:EOLhyphen"/>ti us, whom I moſt of all love.</hi>
+            </p>
+            <pb n="41" facs="tcp:117415:24"/>
+            <p n="2">2. That Chriſt is Gods Principal Servant in his higheſt tranfactions. One that is Gods <hi>Repreſentative,</hi> as the word in the Text holds forth, and the Scripture everywhere ſpeaks. I might now collect from the words ſomething to oppoſe the Doctrine you aſſert, they being ſpoken of a man, and in reference to the Lord of Hoſts, who cannot poſſibly have an equall, unleſs it were poſſible to have two Gods;</p>
+            <p>BUT I ſhall paſs by that, and haſten to the Scripture next appearing, which is, <hi>Iohn</hi> 3.13.<note place="margin">John 3.13.</note> 
+               <hi>And no man hath aſcended up to Heaven, but he that came down from Heaven, the Son of Man which is in Heaven.</hi>
+            </p>
+            <p>
+               <hi>Anſw:</hi> Sir, what your intent was in alledging this Text, I no whit doubt, but the reaſon of your inference thence is yet to me unknown. Thus the words may be underſtood; <hi>[No man hath aſcended up into Heaven]</hi> that is, no man hath known thoſe Divine things, the knowledge whereof is reſerved for another life; or thoſe Divine things which are known in this life, as they are in themſelves, nakedly appea<g ref="char:EOLhyphen"/>ring without their earthly habits, and as expreſſed in a re<g ref="char:EOLhyphen"/>mote and Angelicall Language. <hi>[But he that came down from Heaven, the Son of Man being in Heaven]</hi> that is, The Son being excepted, who was in Heaven, and deſcen<g ref="char:EOLhyphen"/>ded thence, for ſome work which he had to do on Earth; or thus, he being excepted who came down from Heaven, to wit, the Son of Man, who is in Heaven, that is, in the boſome of the Father, knowing his Secrets, and Divine things as they are in themſelves; notwithſtanding he ſpeaks only of thoſe things, and in that way which men are now capable of.</p>
+            <p>I ſhall countenance this Expoſition with a few Reaſons.</p>
+            <p n="1">1. Becauſe this ſenſe and meaning wherewithall I have cloathed thoſe words, is no way oppoſite to the analogy of faith. There is nothing (as I ſuppoſe) to be picked out of my words, which the Doctrine of the Goſpel will pick a quarrell with. But this Expoſition leſſens the number of thoſe Texts, that plead for Chriſt as moſt high God. But let not Scripture be forced; let every Text ſpeak what it knows. To
+<pb n="42" facs="tcp:117415:25"/>miſapply is to pervert Scriptures.</p>
+            <p n="2">2. Becauſe the ſenſe, which I would that this text ſhould own and allow, is elſwhere challenged by the like phraſes to themſelves as their due. <hi>Aſcendere in coelum, to aſcend into heaven,</hi> is <hi>to penetrate the ſecrets of heaven,</hi> as <hi>Grotius</hi> ſpeaks on this place. In the like manner doth <hi>Muſculus</hi> and <hi>Bucer</hi> underſtand the words.</p>
+            <p>In the ſame ſenſe is the like phraſe to be taken, <hi>Prov.</hi> 30.4. and ſo <hi>Piſcator</hi> expounds it. And thus, to be in heaven, is to enjoy the diſcoveries of Gods hidden ſecrets. Thus <hi>Paul</hi> was in the third heavens, when he heard <hi>unſpeakable words, which is not poſſible for a man to utter,</hi> 2 <hi>Cor.</hi> 12. In this ſenſe Chriſt was in heaven, ſaith Grotius; <hi>Chriſtus introſpexit patris intima,</hi> ſaith he, Chriſt looked into the moſt ſecret things of the Father.</p>
+            <p n="3">3. Becauſe this ſenſe which I have joyn'd to this text, makes the text appear as fitly joyn'd with its context. In thoſe two verſes, which immediately precede this; Chriſt doth reprove <hi>Nicodemus</hi> for his unbelief; which he aggravates from the certainty of the thing ſpoken: <hi>Verily, verily, we ſpeak what we know, &amp;c.</hi> and then from his perſpicuity in ſpeaking; if I <hi>have told you earthly things</hi> (that is, either things that may, and are neceſſary to be known in the earth; or elſe the words have reſpect onely to the manner of Chriſts holding them forth) <hi>and ye beleeve not: how can ye beleeve, if I ſhould tell you of heavenly things:</hi> In this thirteenth <hi>verſe</hi> you have an excluſion of all men, (Chriſt excepted) from the knowledg of heavenly things which are reſerved for another world, or which are known here, as they are in themſelves.</p>
+            <p>THe laſt Scripture which I find in your Paper,<note place="margin">
+                  <hi>John</hi> 17.15.</note> is <hi>Ioh.</hi> 17.5. <hi>And now, ô Father, glorifie me with thine own ſelf, with the glory I had with thee before the world was.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This Verſe is part of Chriſts prayer, and will no way diſ<g ref="char:EOLhyphen"/>reliſh this meaning.</p>
+            <p>O thou Father, who doſt abound in kindneſs, and art the fountain of goodneſs, the time being come of finiſhing my courſe in earth, and returning to thy ſelf; glorifie me in
+<pb n="43" facs="tcp:117415:25"/>heaven, (who have emptied my ſelf, taking to me a naturall and mortall body, and walking among men in form of a ſer<g ref="char:EOLhyphen"/>vant; and now being ready to humble my ſelf to the death, even the death of the Croſs in obedience to thee) with that glory which I had in heaven before the world was: being then with thee as <hi>Heir of all things,</hi> clothed with <hi>Majeſty</hi> and <hi>Glory,</hi> anſwerable to that high ſtation, wherein thy plea<g ref="char:EOLhyphen"/>ſure was to ſet me; and to that great dominion, where<g ref="char:EOLhyphen"/>withall thou wast pleaſed to inveſt me.</p>
+            <p>SIR, What you can fetch from this ſcripture, to confirm your doctrine of <hi>Chriſt</hi>'s <hi>Deitie,</hi> doth lie (as yet) under the ſhadow of darkneſs, and in the land of obſcurity. That much might be gathered hence, by a good deduction, to make oppoſition againſt your aſſertion, is not a little perſpicuous and apparent. A few things I ſhall preſent you with, as a taſte of that which might be gathered hence, to diſown that point and concluſion, which with ſo much heat and paſſion you endevour to uphold and maintain amongſt us.</p>
+            <p>It appears from this Scripture, That <hi>whole Chriſt is a Creature.</hi>
+            </p>
+            <p>Firſt, in that he directs his prayer to the Father. If our Lord Jeſus were God equal with the Father, there had been no need, nor can cauſe be ſhew'd, why he ſhould ſupplicate to the Father, a Perſon in the Trinity, and not act relyance on the Godhead, which dwelt in him bodily. <hi>Theſe words ſpake Ieſus and lift up his eyes to heaven, v.</hi> 1.</p>
+            <p>Secondly, in that the Glory was not divine, which he had with the Father before the world was. Becauſe this Glory, which he had in heaven with the Father before the world was, at this time of his praying was ſeparated from him. This muſt be aſſerted, or I know not how Chriſts prayer can be juſtified.</p>
+            <p>We doe not pray but praiſe for things we have, if we know, that we have them; but it cannot be imagined that Chriſt was ignorant of what he had. Now, if Chriſt were a per<g ref="char:EOLhyphen"/>ſon in the Trinity, <hi>coequall with the Father,</hi> and ſo enjoying by the ſame right the <hi>higheſt Glory,</hi> he could not, eſpecially with the Father (or in heaven) be without it in any ſenſe
+<pb n="44" facs="tcp:117415:26"/>whatſoever, as by the clouding, darkning, or obſcuring of it: Therefore the glory which he had with the Father was not the higheſt glory, but a glory proceeding from the Higheſt: and ſo by good conſequence, He who at that time was the ſubject of it, was really and indeed <hi>a Creature.</hi>
+            </p>
+            <p>Thirdly, it appears that the Glory which he had with the Father was not <hi>Divine,</hi> or the <hi>higheſt Glory,</hi> becauſe it was to be communicated. <hi>Glorifie me, ô Father, with that glory,</hi> &amp;c. Now the Higheſt Glory being infinite, could not be given or communicated to the humane nature, which was finite, and ſo uncapable of it; (This is but your own aſſertion, in what you ſpeak relating to the creation) but 'tis abſurd to conceive, that the <hi>Divine glory,</hi> which is <hi>eſſentiall</hi> in God, could be communicated to the <hi>Divine Nature</hi> of Jeſus Chriſt. And therefore this Glory was not the <hi>higheſt,</hi> and the ſubject of it was a <hi>Creature.</hi>
+            </p>
+            <p>Thus I ſhall take my leave of the Scriptures, which you alledg (to confirm, that Jeſus Chriſt is the moſt High God) leaving them for that they are intended for; being without controverſie not uſeleſs, but exceeding uſefull.</p>
+            <p>SIR, Unto your texts of Scripture you adjoyn one Rea<g ref="char:EOLhyphen"/>ſon (if it pleaſe you ſo to call it) which I ſhall ſet down in your own words, thus.</p>
+            <p>
+               <hi>It may be ſaid truly, that this Doctrine, which makes Chriſt a meer creature, brings in, as it were another Gospel, deſtroys the true Gospel in many of the parts of it, and brings in ano<g ref="char:EOLhyphen"/>ther Scripture in many main points.</hi>
+            </p>
+            <p>Come now let us reaſon together concerning this your Reaſon, which is formidable in appearance to your Antago<g ref="char:EOLhyphen"/>niſts; but whether it carries the Sword of truth in its hand, and ſtrength of conviction let us now ſeriouſly conſider. That we may with the more certainty, and facility determine, I ſhall be your leave draw your Reaſon into the form of an Argument, Thus:</p>
+            <p>
+               <hi>That Doctrine which brings in, as it were, another Goſpel, deſtroys the true Goſpel in many of the parts of it, &amp;c. is errone<g ref="char:EOLhyphen"/>ous and to be rejected.</hi>
+            </p>
+            <p>
+               <hi>But that Doctrine which makes Chriſt a meer creature doth ſo. Therefore.</hi>
+            </p>
+            <pb n="45" facs="tcp:117415:26"/>
+            <p>SIR, I ſhall ſubſcribe with both hands (if need be) to the Major, that it is true: And if the Minor be of the ſame blood, I ſhall conclude with you in the concluſion, and let him be <hi>Anathema</hi> that holds the contrary. But how will it ap<g ref="char:EOLhyphen"/>pear, that that Doctrine which makes Chriſt a meer creature, doth bring in, as it were, another Goſpel, deſtroys the true Goſpel in many of the parts of it, &amp;c? That it might be evi<g ref="char:EOLhyphen"/>dent, you bring in <hi>twelve Inſtances,</hi> which, were they good and true (though fewer) might ſerve for a ſufficient Jury to bring in a finall verdict concerning the thing in debate: but of what moment your Inſtances are, let us now examine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance </seg>1</label> 
+               <hi>If Chriſt be but a meer creature and not God, then the gi<g ref="char:EOLhyphen"/>ving ef Divine worſhip, and honour, and ſervice to a meer crea<g ref="char:EOLhyphen"/>ture is lawfull and warrantable; which yet everywhere is for<g ref="char:EOLhyphen"/>bidden in reference to any creature, but is practiſed unto Chriſt in</hi> Rev. 5.12, 13, 14. <hi>and would be Idolatry if Chriſt were not God.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I ſhall put this Inſtance in form of an Argument, that the fallacy and inſufficiency thereof may the better appear.</p>
+            <p>
+               <hi>That it is contrary to the Scripture to give Divine worſhip, honour and ſervice to a meer Creature.</hi>
+            </p>
+            <p>
+               <hi>But Divine worſhip, honour and ſervice is by the warrant of the Scripture given to Chriſt Ieſus,</hi> Rev. 5.12, 13, 14.</p>
+            <p>
+               <hi>Therefoae Chriſt Ieſus is not a meer creature.</hi>
+            </p>
+            <p>To the Major I ſhall thus reply:</p>
+            <p n="1">1. I conceive that your expreſſions (having in them ſome ambiguity) need explanation. If by Divine worſhip, honour and ſervice, you mean that worſhip, honor and ſervice, which is in any ſenſe Divine, I utterly deny your Propoſition as <hi>erroneous and unſound:</hi> For there is no <hi>worſhip, honour</hi> and <hi>ſervice,</hi> which of right belongs to the creature, but is in a ſenſe <hi>Divine,</hi> God being the principall Author, and ultimate Center thereof, <hi>Rom.</hi> 13. <hi>Eph.</hi> 5.7.</p>
+            <p>But if you mean in the ſtricteſt ſenſe, that worſhip, honour, and ſervice which is peculiar unto the <hi>moſt High God,</hi> then ſhall I ſay with you, that it is <hi>Idolatry,</hi> and contrary to the Scripture to give it to any creature whatſoever. That <hi>worſhip, honour</hi> and <hi>ſervice</hi> which is peculiar unto God, differs from
+<pb n="46" facs="tcp:117415:27"/>that which may be yeelded to the Creature, partly in the <hi>matter,</hi> but wholly in the <hi>manner</hi> of it. We muſt pray to God for all things we want, and may pray to men for what they can give; we muſt obey God, and we muſt obey men, who are ſet over us by God; but we may not worſhip, ho<g ref="char:EOLhyphen"/>nour, or ſerve men in the like manner as we doe the <hi>moſt High God,</hi> who is the Principall and Ultimate Object of all <hi>worſhip, honour</hi> and <hi>ſervice;</hi> his right thereto being only of himſelf, and he himſelf being the ſole end thereof. According to this ſenſe is that command which our Saviour mentions (<hi>Mat.</hi> 4. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0.) to be underſtood: <hi>Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve.</hi>
+            </p>
+            <p n="2">2. I wonder at this adjection <hi>MEER,</hi> which you have added to creature; as if a creature in eſſence could be more then <hi>a meer creature;</hi> or as if ſome creature might have as its right and due, that <hi>honor, worſhip and ſervice</hi> which the Scripture doth appropriate to the <hi>moſt High God.</hi>
+            </p>
+            <p>Sure I am, that creatures as creatures are excluded from ſharing with GOD in that <hi>worſhip and ſervice</hi> which is pecu<g ref="char:EOLhyphen"/>liar to him.</p>
+            <p>Now for your Minor, <hi>That Divine worſhip, honor, and ſer<g ref="char:EOLhyphen"/>vice is by Scripture-warrant given to Chriſt Ieſus.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Sir, it is granted that Jeſus Chriſt is the intermediate object of Divine worſhip, honour and ſervice, being <hi>Gods Viceroy,</hi> and acting amongſt men in his Fathers name, which the Scri<g ref="char:EOLhyphen"/>pture you bring helps to confirm. But where the Scripture allows <hi>worſhip, honour and ſervice</hi> to be given to him, as the <hi>Principall</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ltimate</hi> Object thereof, is not yet made to appear; and therefore the Concluſion may not have liberty to paſs as an unqueſtiouable truth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance </seg>2</label> 
+               <hi>If Chriſt be a meer creature, then it is lawfull and warran<g ref="char:EOLhyphen"/>table to beleeve in a meer Creature, which is againſt the te<g ref="char:EOLhyphen"/>nure of the whole Scripture. But it is commanded in reference unto Chriſt,</hi> Joh. 14.1. <hi>and ſalvation is annexed to it,</hi> Jo. 3.36.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance </seg>3</label> 
+               <hi>If Chriſt be a meer creature, then faith in a meer creature can ſave man, which is abſurd and groſſe, and contrary to the Scriptures: for Abraham beleeved God, and it was accounted to him for Righteouſneſs,</hi> Rom. 4.3. and ſo was ſaving.</p>
+            <pb n="47" facs="tcp:117415:27"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> SIR, theſe two inſtances, the one being in reſpect of the other fleſh of its fleſh, and bone of its bone, I have joyn'd together, and ſhall oppoſe unto theſe, two Propoſitions which the Scripture will warrant, and may ſuffice for an Anſwer.</p>
+            <p n="1">1. That that Faith which is needfull and neceſſary to ſalva<g ref="char:EOLhyphen"/>tion hath a double object, <hi>God,</hi> and the <hi>man Chriſt Jeſus,</hi> Joh. 14.1. the Scripture which you quote bears witneſs to this as a truth.</p>
+            <p>
+               <hi>We are to beleeve on him that ſent Jeſus Christ,</hi> Joh. 5.24. <hi>Verily, verily, I ſay unto you,</hi> (ſaith Chriſt) <hi>he that heareth my Word, and beleeveth on him that ſent me, hath everlaſting life, and ſhall not come into condemnation, but is paſſed from death to life;</hi> And alſo on Jeſus Chriſt that was ſent, John 6.29. <hi>As the Serpent was lifted up in the wilderneſs; ſo muſt the Son of man be lifted up: that whoſoever beleeveth in him ſhould not periſh, but have everlaſting life, John</hi> 3.14, 15. That faith which hath but a ſingle object is not a ſaving faith. It is <hi>impoſſible</hi> that men ſhould by a Goſpel-light beleeve in God, and not in Chriſt, or in Chriſt and not in God: <hi>Jeſus cryed and ſaid, He that beleeveth on me, beleeveth not on me, but on him that ſent me, John</hi> 12.44. For by the Goſpel God appears merciful in <hi>the face of Chriſt,</hi> &amp; Chriſt appears inſtru<g ref="char:EOLhyphen"/>mentall in the <hi>hand of God, Rom.</hi> 4.24. <hi>Rom.</hi> 10.9. Though in ſome places but one is expreſſed: yet there the other is clearly imply'd.</p>
+            <p n="2">2. That that Faith which is needfull and neceſſary to ſalva<g ref="char:EOLhyphen"/>tion acts in a <hi>diverſe manner</hi> on God, and the Lord Chriſt Jeſus.</p>
+            <p>It acts towards God as the <hi>Principall</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ltimate,</hi> and towards Ieſus Chriſt, as the <hi>Secondary</hi> and <hi>mediate Object</hi> of Faith. <hi>Peter</hi> ſhews that the Saints to whom he wrote did beleeve in God through Ieſus Chriſt; and ſo that God was the Ultimate, and Chriſt the Mediate object of their faith, 1 <hi>Pet.</hi> 1.21. 'Tis from Gods Commandment that faith in Chriſt is <hi>needfull,</hi> 1 <hi>Iohn</hi> 3.23. And 'tis from Gods appointment that faith in Chriſt is <hi>ſaving,</hi> Joh. 6.4. <hi>This is the will of him that ſent me</hi> (ſaith Chriſt) <hi>that every one which ſeeth the Son, and beleeveth on him, may have everlaſting life.</hi>
+            </p>
+            <pb n="48" facs="tcp:117415:28"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance </seg>4</label> 
+               <hi>If Chriſt be but a meer creature, then a meer creature is the Saviour of men, ſaving them with a mighty and eternal ſalvation as the Scripture ſpeaks, but this is againſt the whole current of the Gospel which ſpeaks of God our Saviour, Tit.</hi> 2.10, 13. <hi>and in many other places.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Againſt this your inſtance I ſhall levell this Aſſerti<g ref="char:EOLhyphen"/>on, which will be ſufficient to diſcover its weakneſs, and con<g ref="char:EOLhyphen"/>fute it; That to affirm <hi>Jeſus Chriſt</hi> to be the Saviour of men without God, or equal with God, is contrary to the current of the whole Scripture; which doth diſtinguiſh God from Chriſt in the work of Salvation, calling him a Saviour, as di<g ref="char:EOLhyphen"/>ſtinct from <hi>Chriſt,</hi> as in the 1 <hi>Tim.</hi> 1.1. where <hi>God is ſaid to be our Saviour, and the Lord Jeſus Chriſt to be our hope;</hi> and in the Text you alleadge, and frequently elſewhere.</p>
+            <p>And in that the Scripture <hi>doth prefer</hi> God in the work of Salvation before our Lord <hi>Jeſus Chriſt,</hi> making God to be the principal Agent therein, when it declares that the work of Chriſt in ſaving men was from the purpoſe of God, who appointed him for it, and from the Precept of God, who in<g ref="char:EOLhyphen"/>joyned him to it, and from the Preſence of God, who aſſiſted him in it, all which from the Scriptures might be abundantly ſet forth unto us: and alſo revealing the Lord <hi>Chriſt Jeſus</hi> to be in the work of Salvation an <hi>inſtrumental Saviour.</hi> For this ſee onely <hi>Tit.</hi> 3. <hi>v.</hi> 4, 5, 6. which puts it paſt all queſtion. <hi>But after that the kindneſs and love of God our Saviour to<g ref="char:EOLhyphen"/>wards man appeared, not by works of righteouſneſs which we have done, but according to his mercy he ſaved us, by the waſh<g ref="char:EOLhyphen"/>of Regeneration, and renewing of the holy Ghoſt; which he ſhed on us abundantly, through Jeſus Chriſt our Saviour.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance </seg>5</label> 
+               <hi>If Chriſt be but a meer Creature, then a meer Creature is Mediator betwixt God and Men, which cannot be, becauſe a meer creature is no way meet to be a Dayſman for God and be<g ref="char:EOLhyphen"/>cauſe a Mediatour muſt either partake of both God and Man, or of neither, elſe he will rather be a Party then a Mediator, if he partakes of mans nature, and not of Gods if he be man and not God, Therefore this Mediatour betwixt God and man is called Emmanuel, that is God with us, or God manifeſted in the fleſh,</hi> 1 <hi>Tim.</hi> 3.16. <hi>or God made fleſh, John.</hi> 1.14.</p>
+            <pb n="49" facs="tcp:117415:28"/>
+            <p>
+               <hi>Anſw.</hi> This your fifth Inſtance doubtleſs is intended for the ſame purpoſe as the former. But if it bring not with it more evidence of truth then they afforded, the Doctrine which denies Chriſt to be the moſt high God, may yet be accounted free from thoſe high and capital Crimes, of bringing in as it were another Goſpel, and the like, wherewithall it is accuſed.</p>
+            <p>That we may the better underſtand what it ſpeaks, I ſhall reduce it into the form of an Argument: and that we may more clearly diſcern what truth it ſpeaks, I ſhall ſpend ſome time to examine it. If we conſider the words of this Inſtance with the ſcope of it, we ſhall perceive, as a natural off-ſpring, this argument to iſſue from it;</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance </seg>5</label> 
+               <hi>That Doctrine, Which makes the mediatour betwixt God and man to be a meer creature, brings in as it were another Go<g ref="char:EOLhyphen"/>ſpel, destroys the true Gospel in many of the parts of it, &amp;c. in that it is againſt Reaſon, that the mediator ſhould be a crea<g ref="char:EOLhyphen"/>ture; Becauſe a meer creature is no way meet to be a Dayſ<g ref="char:EOLhyphen"/>man for God; and becauſe a mediatour muſt either partake of both God and man, or of neither, elſe he Will be rather a party then a mediator, &amp;c. and in that it oppoſeth theſe Scriptures, Mat.</hi> 1.23. 1 <hi>Tim.</hi> 3.16. <hi>Io.</hi> 1.14. <hi>But, that Doctrin which denies Jeſus Chriſt to be the moſt high God, makes the mediatour be<g ref="char:EOLhyphen"/>twixt God and man to be a meer creature. Therefore.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Although (Sir) your <hi>major</hi> deſerves not eſteem, not<g ref="char:EOLhyphen"/>withſtanding that attendance of <hi>Reaſon</hi> and <hi>Scripture</hi> you have allotted to it; your Reaſons being ſtrangers to Reaſon, and your Scriptures not bearing the Livery of your Doctrine: yet you merit a Reply, for that <hi>appearance</hi> of Reaſon and Scripture, which you have drawn after your <hi>majors</hi> heels.</p>
+            <p>The firſt <hi>Reaſon</hi> you bring to juſtifie your Accuſation of that Doctrine, which makes the <hi>mediatour</hi> betwixt God and man to be a <hi>meer creature,</hi> as deſtructive to the Goſpel in (at leaſt) ſome main part of it is this,</p>
+            <q>Becauſe a meer creature is no way meet to be a dayſman for God</q>
+            <p>Sir, this Reaſon wants a Reaſon to ſupport it; for 'tis not in it ſelf ſo evident to Reaſon, as that none may ſuſpect it; neither is your word a ſufficient Reaſon for any to believe it.</p>
+            <p>What ſhould hinder but that a meer Creature (to uſe
+<pb n="50" facs="tcp:117415:29"/>your own terms) may be a <hi>Dayſman</hi> or <hi>mediatour</hi> betwixt God and man? Is there any work which belongs to his Of<g ref="char:EOLhyphen"/>fice, which is <hi>impoſſible</hi> for a Creature to perform, notwith<g ref="char:EOLhyphen"/>ſtanding Divine Aſſiſtance with him? I dare aſſert the contra<g ref="char:EOLhyphen"/>ry, and am able to prove in whatſoever work you can in ſance, belonging to Chriſts Mediatorſhip, that of himſelf he was not able to perform it, unleſs by the aſſiſtance of another, which he enjoyed, and ſo is a compleat <hi>mediator.</hi>
+            </p>
+            <p>Your ſecond Reaſon which joynes hand with the former, and ſpeaks to as little purpoſe, is this, <hi>Becauſe a mediatour muſt either partake of both God and man, or of neither; elſe he Will rather be a party then a mediatour.</hi>
+            </p>
+            <p>Sir, that there is a neceſſity, that Chriſt the mediatour muſt be <hi>God</hi> and <hi>man,</hi> or elſe he will be rather a party then a mediatour, you ſay, but why, is yet to be learned. Was not <hi>Moſes</hi> a mediatour betwixt God (or the Angels) and men? But was <hi>Moſes God and man,</hi> or <hi>Angel and man? Moſes</hi> was a <hi>meer man,</hi> as all will confeſs; but that he was a mediatour betwixt God and men, or Angels and men the Scripture de<g ref="char:EOLhyphen"/>clares. <hi>Gal.</hi> 3.19. When you brought in this Reaſon, you did you knew not what, for it gives witneſs againſt you. By the aſſiſtance thereof I ſhall expect an Argument, by which the ſuppoſed Deity of the Mediatour will be denied; and ſhall leave you to ſhew where its weakneſs lies.</p>
+            <p>
+               <hi>If Chriſt the mediatour Were God, he was a Party; but Chriſt the mediatour was not a Party; Therefore Chriſt the mediatour was not God.</hi>
+            </p>
+            <p>The <hi>major</hi> is clear. Let me onely in the work of <hi>Reconcilia<g ref="char:EOLhyphen"/>tion</hi> give an inſtance. <hi>In Reconciliation</hi> by a mediatour we are to ſuppoſe three, one <hi>offended,</hi> another <hi>offending,</hi> and a third <hi>mediating</hi> for peace betwixt them: God was offended, men were offenders, and <hi>Chriſt</hi> was the mediatour. Now if <hi>Chriſt</hi> had been a <hi>ſinfull man,</hi> he had been of the <hi>party offending</hi> and if he had been <hi>God</hi> he was the party <hi>offended.</hi> But Chriſt, was not a party ſay you, and therefore I need not prove the <hi>minor;</hi> but from the Propoſition which I have confirmed, and the Aſſumption, which you have acknowledged, draw up the Concluſion, <hi>that Chriſt the mediatour is not God.</hi>
+            </p>
+            <pb n="51" facs="tcp:117415:29"/>
+            <p>Now I ſhall conſider the Scriptures you bring, and hear what teſtimony they afford to the thing you aſſert, <hi>that Chriſt the mediatour is the most high God.</hi> Your firſt Scripture is <hi>Matth.</hi> 1.23. where Chriſts name is called <hi>Emmanuel,</hi> the ſignification whereof is <hi>God with us.</hi> Whence you would col<g ref="char:EOLhyphen"/>lect <hi>that there are two natures in Chriſt the mediatour.</hi>
+            </p>
+            <p>This is I confeſs a common inference, but that it is natural from it I cannot yet underſtand. <hi>Emmanuel</hi> was not the name of Chriſt, but a ſignification of his name <hi>Jeſus,</hi> which is evident if you compare the 21, 22, <hi>&amp;</hi> 23. <hi>verſes</hi> of this <hi>chap.</hi> together; now the <hi>name Jeſus</hi> ſignifies not the <hi>nature,</hi> but the <hi>office</hi> of Chriſt, as the Angel expounds it, <hi>verſe</hi> 21. <hi>Thou ſhalt call his Name Jeſus, for he ſhall ſave his people from their ſins.</hi> And ſo <hi>Emmanuel</hi> notes out that <hi>certain aid</hi> that God would afford by <hi>Jeſus Chriſt</hi> to the Church.</p>
+            <p>THe next Scripture is 1 <hi>Tim.</hi> 3.16. <hi>Without controverſie great is the myſtery of godlineſs, God was manifeſted in the fleſh, &amp;c.</hi> Ancient interpreters (ſaith a learned man) as the Latine, the Syriack, the Arabick, <hi>Ambroſe</hi> and <hi>Auguſtine,</hi>
+               <note place="margin">1 Tim. 3.16.</note> make this Reading to be ſuſpected, for they reade not as we do, for thus they reade the words, <hi>And Without controverſie great is the myſtery of godlineſs which (myſtery) was mani<g ref="char:EOLhyphen"/>feſted in the fleſh, &amp;c.</hi>
+            </p>
+            <p>And <hi>Hincmarus</hi> addeth that this word <hi>God</hi> was put in the Text by the <hi>Neſtorians.</hi> But if we allow our Reading, this Text will make nothing for your purpoſe; for it is not deni<g ref="char:EOLhyphen"/>ed, but that Chriſt was a <hi>God,</hi> and the Text ſaith but this, a <hi>God</hi> was manifeſt in fleſh, that is <hi>appeared viſibly amongst men,</hi> when he took unto him a body.</p>
+            <p>YOur third and laſt Scripture is, <hi>John</hi> 1.14. where 'tis ſaid <hi>That the Word Was made fleſh;</hi> the meaning is this, That Creature which was immediately made by God, took unto it a body; I finde no place where the <hi>fleſh</hi> of Chriſt ſigni<g ref="char:EOLhyphen"/>fies any thing more then his <hi>body,</hi> according to which he di<g ref="char:EOLhyphen"/>ed,<note place="margin">1 John 14.</note> and is nowhere taken for the <hi>Humane Nature.</hi>
+            </p>
+            <p>Let me now oppoſe your Propoſition by two or three Rea<g ref="char:EOLhyphen"/>ſons, which I ſhall leave you to pauſe upon. <hi>Christ the Me<g ref="char:EOLhyphen"/>diatour is a meer Creature;</hi>
+            </p>
+            <pb n="52" facs="tcp:117415:30"/>
+            <p n="1">1. <hi>Becauſe whole Chriſt is a creature:</hi> For this ſee be<g ref="char:EOLhyphen"/>fore. Now if whole Chriſt be a creature, then either a meer creature is the Mediatour, or Chriſt is not a Mediator.</p>
+            <p n="2">2. <hi>Becauſe a Mediatour is not of one, Gal.</hi> 3.20. now if Chriſt be God, then he is a Mediatour of one: for he cannot be a Mediatour to himſelf, and there is but one God.</p>
+            <p n="3">3. <hi>Becauſe Chriſt is a Mediatour betwixt God and Men,</hi> 1 <hi>Tim.</hi> 2.5. Now if he were God, he could not be a Media<g ref="char:EOLhyphen"/>tour betwixt God and Men, for he could not be a Mediatour to himſelf. And <hi>Paul</hi> in that of <hi>Timothy</hi> cals the Mediator betwixt God and Men, <hi>the Man Christ Jeſus.</hi> Thus having taken away the <hi>Major,</hi> though the <hi>Minor</hi> were granted: yet would not your Concluſion ſtand, having but one legge to reſt upon.</p>
+            <p>I am now come to your ſixth Inſtance: which is this,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance </seg>6</label> 
+               <hi>If Chriſt be but a meer creature, then the Righteouſnes of Christ, which is imputed to Believers, is not the Righ<g ref="char:EOLhyphen"/>teouſneſs of God, but the righteouſneſs of a meer creature; but this is against the tenure of the Scriptures, in</hi> Phil. 3.9.</p>
+            <p>
+               <hi>Anſw.</hi> Sir, I ſuppoſe from ſome terms in this your Inſtance, and from the Text you alledge, that by <hi>Righteouſneſſe</hi> you mean that <hi>righteouſneſs Whereby Believers ſtand in the ſight of God free and clear from all ſin, in reference to the curſe of the Law. This is the Righteouſneſs of God, by the Faith of Jeſus Chriſt, (that is, that in Jeſus Chriſt which is to be the object of our faith) unto all and upon all that believe, Rom.</hi> 3.22. God is the Principal Authour of this Righteouſ<g ref="char:EOLhyphen"/>neſs, and Chriſt is an Inſtrumental Agent therein. Now that in Chriſt which is imputed to us for righteouſneſs, is his <hi>o<g ref="char:EOLhyphen"/>bedience;</hi> which was both active and paſſive. The opinion now-a-days is, that the <hi>active obedience</hi> of Chriſt, whereby he did perfectly fulfill the Law, and his <hi>paſſive obedience,</hi> whereby he did perfectly ſuffer the curſe of the Law, are im<g ref="char:EOLhyphen"/>puted to us for righteouſneſs. Now he could not <hi>obey</hi> the Law as he was <hi>God,</hi> nor could the <hi>ſuffer the curſe</hi> of the Law, but as he was Man; and ſo that righteouſneſs of Chriſt, which was imputed unto us, was a creatures righteouſneſs.</p>
+            <p>Now I ſhall haſten to your ſeventh Inſtance, which here follows.</p>
+            <pb n="53" facs="tcp:117415:30"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance </seg>7</label> 
+               <hi>If Chriſt Were a meer creature, then to pardon ſin belongs not to him, becauſe the Scripture teſtifies, that none can for<g ref="char:EOLhyphen"/>give ſins but God, becauſe all ſin is againſt God; therefore none can for give it but God: but it is evident, that Chriſt took the Authority of forgiving ſin: Son</hi> (ſaith Chriſt) <hi>thy ſins are forgiven thee,</hi> Luke 7.48.</p>
+            <p>
+               <hi>Anſw.</hi> Becauſe many think that ſome weight lies in theſe words, I ſhall be a little the more large in my Anſwer to it; I ſhall without marring it, make this Argument of it.</p>
+            <p>
+               <hi>None can forgive ſin but God.</hi>
+            </p>
+            <p>
+               <hi>But Chriſt did forgive ſin,</hi> Luke 7.48.</p>
+            <p>
+               <hi>Therefore Chriſt is God.</hi>
+            </p>
+            <p>I ſhal reply to your <hi>Major, that none can forgive ſin but God.</hi>
+            </p>
+            <p n="1">1. By objecting againſt the witneſs you bring for it; for your proof alludes to that which we have in <hi>Mark</hi> 2.7. <hi>Who can for give ſins but God only?</hi> This though it be in the Scri<g ref="char:EOLhyphen"/>pture, yet is it no part of the Standard; for the dark <hi>Scribes</hi> who were enemies to Chriſt, did ſpeak it.</p>
+            <p n="2">2. By objecting againſt the Doctrine you teach in it. That none <hi>can for give ſin</hi> in any ſenſe, <hi>but God onely,</hi> may paſs for an errour: for it is the duty of all men, <hi>to for give others thoſe ſins they commit against them, Matth.</hi> 6.14. And it is the priviledge of ſome men to forgive all ſins, in reference to the curſe of the Law, <hi>John</hi> 20.23. <hi>Whoſe ſoever ſins ye remit, they are remitted unto them; and Whoſe ſoever ſins ye retain, they are retained.</hi> That none can forgive ſins <hi>as God doth,</hi> ſhall have my leave to paſs for a truth. <hi>God</hi> in forgiving of ſin is <hi>Principall,</hi> doing it by his <hi>own Authority,</hi> not recei<g ref="char:EOLhyphen"/>ving power from another.</p>
+            <p>Now for your <hi>Minor, That Christ did for give ſin.</hi> 'Tis true, <hi>that Chriſt did forgive ſin;</hi> and <hi>that he the Sonne of Man</hi> had on Earth <hi>power</hi> to do it, as he himſelf ſpeaks, <hi>Mar.</hi> 2.10. But what will this help to bring in the Concluſion, <hi>that Chriſt is God?</hi> Doubtleſs no, becauſe <hi>meer creatures</hi> (as above) <hi>have</hi> in ſome ſenſe <hi>power to forgive ſin.</hi> If it can be proved, that Chriſt is <hi>Principall</hi> in forgiving, ſomething may done. But that cannot be, becauſe the Scripture can<g ref="char:EOLhyphen"/>not oppoſe it ſelf. The Scripture tells us, <hi>that we are juſtifi<g ref="char:EOLhyphen"/>ed
+<pb n="54" facs="tcp:117415:31"/>by the Man Christ Ieſus,</hi> Acts 13.38, 39. <hi>Be it known un<g ref="char:EOLhyphen"/>to you therefore, men and brethren, that through this man is preached unto you the forgiveneſs of ſins. And by him all that believe are juſtified from all things, from which yee could not be juſtified by the Law of</hi> Moſes. <hi>And it alſo ſhews us that Christ is not the Principall forgiver of ſins;</hi> in that he prayed to another (on the <hi>Jews</hi> behalf) for the forgiveneſs of ſin, Luke 23.34. <hi>Then ſaid Jeſus, Father forgive them, for they know not What they do.</hi> And in that he received from another his power of forgiving ſins, <hi>Acts</hi> 5.30, 31. <hi>The God of our Fathers raiſed up Jeſus, whom yee ſlew and hanged on a tree. Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance unto</hi> Iſrael, <hi>and forgiveneſs of ſins.</hi>
+            </p>
+            <p>Thus I have blockt up the way, that your Concluſion can<g ref="char:EOLhyphen"/>not paſs, but opened a way for my ſelf, to paſs from your ſeventh Inſtance to that which follows.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance </seg>8</label> 
+               <hi>If Chriſt be a meer creature, then the value of that offe<g ref="char:EOLhyphen"/>ring, which Chriſt offered, when he offered himſelf to God, is taken away, and the ſatisfaction which Chriſt gave to Divine Juſtice is deſtroyed: for if the perſon that died were a meer man, and the bloud that was ſhed were the bloud of a meer man, and not of God, as it is called,</hi> Acts 20.28. <hi>then how could it ſatisfie for the ſins of many tranſgreſſours; for there is no proportion betwixt one meer man dying for ſin, and ma<g ref="char:EOLhyphen"/>ny men ſinning and deſerving death, each of them for the ſins they have committed. And how an Infinite Juſtice offended ſhould be ſatisfied with the ſacrifice finite in value, is uncon<g ref="char:EOLhyphen"/>ceivable and againſt the tenure of the Scripture.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Conſidering the words of this Inſtance with its ſcope, we may draw up this Argument.</p>
+            <p>
+               <hi>That Doctrine which takes away the value of Chriſts of<g ref="char:EOLhyphen"/>fering, and deſtroys the ſatisfaction which he gave to Divine Iuſtice brings in as it were another Goſpel, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>But that Doctrine which makes Chriſt a meer creature doth ſo. Therefore.</hi>
+            </p>
+            <p>I ſhall grant the <hi>Major;</hi> but how prove you the <hi>Minor?</hi> You would confirm your Doctrine by asking two Queries:</p>
+            <pb n="55" facs="tcp:117415:31"/>
+            <p n="1">1. If Chriſt was (ſay you) <hi>a meer creature, then who could he ſatisfie for the ſins of many tranſgreſſours, &amp;c?</hi>
+            </p>
+            <p>Sir, if it pleaſe you to conſider <hi>Rom.</hi> 5.12. and ſo forward, you may anſwer your own Query, or ſee as good Reaſon of this, which I ſhall now propound.</p>
+            <p>If <hi>Adam</hi> were a meer creature, how could his ſin make many tranſgreſſours? <hi>If through the offence of one many be dead, much more the grace of God and the gift by grace, by one man, Ieſus Chriſt hath abounded unto many,</hi> Rom. 5.15. <hi>Chriſt</hi> (as well as <hi>Adam</hi>) was a common perſon, and there<g ref="char:EOLhyphen"/>fore the Lord having laid upon him the iniquities of us all, and he bearing the curſe of the Law, his Members are delive<g ref="char:EOLhyphen"/>red from both the ſin and the curſe.</p>
+            <p>Your Second Query is this, <hi>How is it conceivable that an Infinite Iuſtice offended ſhould be ſatisfied by a Sacrifice finite in value?</hi>
+            </p>
+            <p>What matters it (Sir,) if it be <hi>unconceivable?</hi> muſt it therefore be <hi>uncredible?</hi> Doubtleſs in all Controverſall doctrines, you will not hold this for an Orthodoxall tenent. In the Doctrine of the Trinity <hi>credit</hi> muſt be given to things <hi>unconceivable;</hi> but the like liberty (it ſeems) will not be allowed in Chriſts Mediatorſhip. Eut Sir, the foundation you build upon is not a little queſtionable: you take that for granted, and ſo infer from it, which you are to confirm. Sure I am, that not a few errours may lie under your <hi>Non-Scrip<g ref="char:EOLhyphen"/>turall-Language.</hi> Ye tell us of an <hi>Infinite Sacrifice,</hi> but what you mean by it, and where Scripture tells us, I am yet for to learn. The Scripture tells us, that Chriſt was <hi>made ſin,</hi> or <hi>a ſin offering for us,</hi> by taking our ſins and bearing the curſe: But how this Sacrifice was <hi>infinite,</hi> remains to me unconceivable. If the ſuffering of Chriſt had been <hi>Infi<g ref="char:EOLhyphen"/>nite,</hi> there had been <hi>no end</hi> of it: If the curſe had been <hi>In<g ref="char:EOLhyphen"/>finite, man</hi> could not have born it, being uncapable of any thing <hi>Infinite</hi> in the <hi>Infinity</hi> of it. It is enough for me, to believe that my Lord Jeſus ſuffered for me, whatever I de<g ref="char:EOLhyphen"/>ſerved to ſuffer; and that was the curſe of the Law, be that what it will.</p>
+            <p>There is a Scripture which I finde in your Inſtance, and
+<pb n="56" facs="tcp:117415:32"/>that is <hi>Acts</hi> 20.28. and I knew no fitteer place then the cloſe of my Anſwer for it.</p>
+            <p>Sir, I ſhall offer theſe few things to your conſideration:</p>
+            <p n="1">1. That there may be ſome miſtake in the Text. <hi>God</hi> may be put for <hi>Lord</hi> or <hi>Chriſt,</hi> which if granted, the words are thus to be read: <hi>Take heed therefore to your ſelves, and to all the ſlock, over which the holy Ghoſt hath made you overſeers, to feed the Church of Chriſt, which he hath purchaſed with his own bloud.</hi> The Churches of the Saints are called the Churches of Chriſt, <hi>Rom.</hi> 16.16. This conceit of a miſtake may receive countenance from the <hi>poſſibility, probability</hi> and <hi>facility</hi> thereof. It is <hi>poſſible</hi> that the Scribe through care<g ref="char:EOLhyphen"/>leſneſs, or ſomething worſe, might here put <hi>God</hi> for <hi>Chriſt.</hi> There are two places, one in the Old Teſtament, another in the New, which <hi>Willet</hi> conceiveth to have been miſtaken by the Scribes negligence, or ſomething worſe.</p>
+            <p>The firſt is <hi>Pſal.</hi> 22.16. where <hi>Caari,</hi> ſignifying as a Lion, is put for <hi>Caru,</hi> they pierced. The other is <hi>Rom.</hi> 12.11. we have <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>time</hi> for <hi>Lord,</hi> Alſo it is probable, that here is a miſtake, for as <hi>Grotius</hi> obſerves, many Copies have <hi>Lord,</hi> and the <hi>Syriack Chriſt,</hi> not God. Laſtly, it was eaſie to miſtake taking one for the other, from that compendious writing which was anciently much in uſe: where for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> they wrote onely <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="2">2. But in the next place, if it be proved that there is no <hi>mi<g ref="char:EOLhyphen"/>ſtake</hi> in the Text, yet there may be a <hi>defect</hi> in the words. For the laſt clauſe ſome Greek copies thus have it; <hi>which he hath purchaſed with the blood of his own,</hi> and ſo the word <hi>Son</hi> is to be underſtood with the blood of his <hi>own Son.</hi>
+            </p>
+            <p n="3">3. Laſt of all, if both theſe may bee removed, yet the words may have another meaning then what you and many others allot to them. <hi>Chriſts blood</hi> may be ſaid to be <hi>Gods own blood,</hi> in way of <hi>eminency,</hi> it being more excellent by farre then the blood of the Legall Sacrifices. In the old Teſtament tall trees are called <hi>Cedars of God;</hi> the like Phraſes are fre<g ref="char:EOLhyphen"/>quently there to be found. And the New Teſtament is not wholly a ſtranger to the like Phraſes. In this ſence Chriſt is called the <hi>Lamb of God, Joh.</hi> 1.36. becauſe he was far more
+<pb n="57" facs="tcp:117415:32"/>excellent then either the Paſchall Lamb, or any other Lamb, which was to be ſlain in way of Sacrifice, under the Leviticall Prieſthood. The Divine <hi>Authour</hi> to the <hi>Hebrewes</hi> ſpeaking both of the blood of legall ſacrifices, and of Chriſt Jeſus, pre<g ref="char:EOLhyphen"/>ferres the <hi>blood of Chriſt</hi> far before all other blood that was ſhed for the expiation of ſinne <hi>Heb.</hi> 9.13.14.</p>
+            <p>Now I haſten to your ninth ſubſtance, which is this.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance </seg>1</label> 
+               <hi>If Chriſt be a meere creature, then the interceſſion of Chriſt is overthrown, for Chriſt if meere man being in heaven, can<g ref="char:EOLhyphen"/>not know the ſtate of the Church in all places upon earth, there<g ref="char:EOLhyphen"/>fore cannot intercede for it.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Sir, the reducing of this your Inſtance into an Argument will be ſufficient to diſcover its vanity and weakneſſe.</p>
+            <p>Thus it may be formed without the leaſt injury to your mea<g ref="char:EOLhyphen"/>ning, if your mind agree with the import of your words.</p>
+            <p>
+               <hi>That Doctrine which utterly overthrows the Interceſſion of Chriſt, brings in as it were another Goſpel,</hi> &amp;c.</p>
+            <p>
+               <hi>But the Doctrine which makes Chriſt to be a meere crea<g ref="char:EOLhyphen"/>ture, utterly overthrows the interceſſon of Chriſt. Therefore.</hi>
+            </p>
+            <p>Sir, to your <hi>major</hi> I yield the fulleſt conceſſion, being ſo much a <hi>friend</hi> to Chriſts Incerceſſion.</p>
+            <p>Your <hi>minor</hi> brings in an high accuſation, but pray Sir, how is it attended with <hi>probation?</hi> you onely ſay, <hi>that if Chriſt were a meere creature, being in heaven, he could not know the ſtate of the Churches in all places upon earth, and there<g ref="char:EOLhyphen"/>fore if he were but a meere creature he could not intercede.</hi>
+            </p>
+            <p>What muſt we again take your word for a proffer? I wiſh a better, for there is no goodneſſe in that. We have already been too long troubled with the word, <hi>I ſay</hi> in ſtead of proof. What have you learn'd to meaſure the knowledge of him, who <hi>hath receiv'd the ſpirit without meaſure?</hi> cannot he as man know in heaven what things are done in earth?</p>
+            <p>Who told you ſo?</p>
+            <p>None but the <hi>man Chriſt Jeſus</hi> can <hi>intercede,</hi> it being ab<g ref="char:EOLhyphen"/>ſurd to conceive, that <hi>God</hi> can <hi>interede,</hi> unleſſe it might be conceived that <hi>God</hi> hath a <hi>Superiour.</hi> Now if the man Chriſt Jeſus doth intercede for his <hi>Church</hi> he <hi>knows</hi> her ſtate, and why he may not know the ſtate of the Church by a <hi>commu<g ref="char:EOLhyphen"/>nication</hi> of power from the Father, notwithſtanding he be not
+<pb n="58" facs="tcp:117415:33"/>
+               <hi>God and man</hi> in one Perſon, is a riddle for the unfolding whereof I would willingly plow with your heifer. Thus I take leave of your ninth Inſtance, that I may viſit the tenth, which becauſe it is of the ſame value, and in that part which I would deny it, already anſwerd'd in my reply to <hi>Matth.</hi> 28.20. whi<g ref="char:EOLhyphen"/>ther I refer you. I ſhall paſſe it by, and be take my ſelf to ex<g ref="char:EOLhyphen"/>amine the eleventh which now follows.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>nce 11.</note> 
+               <hi>If Chriſt be a meere creature then a meere creature is the Judge of the World, which is againſt the Scritpure, for the Judg of the World is God, before whom Abraham ſtood in</hi> Gen. 18.25. <hi>When he pleaded for Sodom,</hi> Rom. 2.5, 6. <hi>tho day of judg<g ref="char:EOLhyphen"/>ment is called the day of Revelation of the righteous Judge<g ref="char:EOLhyphen"/>ment of God, who will render to every man according to his words.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Sir, this Argument will ſpeak out the midd of this Inſtance.</p>
+            <p>
+               <hi>That Doctrine which makes a meer creature the judg of the world, is againſt the Scripture,</hi> Gen. 18.15. Rom. 2.5, 6. <hi>But Chriſt is the judg of the world. Therefore that doctrine which makes Chriſt a meer creature, is againſt the Scripture.</hi>
+            </p>
+            <p>To your <hi>Major</hi> take theſe Anſwers: 1. That in a ſenſe it is falſe; for <hi>Christ</hi> ſhall judg the world. But you will ſay he is not a meer creature. But what ſay you to the Apoſtles? were not they <hi>meer creatures:</hi> but what will you ſay, if I ſhal ſhew from the word, that they ſhall be <hi>judges</hi> at the laſt day: ſee <hi>Mat.</hi> 19.28. and you ſhall hear Chriſt telling <hi>Peter,</hi> that they of the Apoſtles, <hi>Who had followed him in the regeneration, ſhould ſit upon</hi> 12 <hi>Thrones, judging the</hi> 12 <hi>tribes of Iſrael.</hi> And are not all the Saints <hi>meer creatures?</hi> Doubtleſs at that in<g ref="char:EOLhyphen"/>ſtant, when you fram'd this <hi>Inſtance,</hi> you had not in your mind what <hi>Paul</hi> ſpeaks in 1 Cor. 6.2, 3. <hi>Do ye not know,</hi> ſaith he, <hi>that the Saints ſhall judge world? and if the world ſhall be judged by you, are ye unworthy to judg the ſmalleſt matters; Know ye not that we ſhall judge Angels?</hi> 2. That in a ſenſe it is true, no creature can be <hi>as God is,</hi> the judg of the world; for God is <hi>Principal</hi> in the judgment, being both the <hi>Alpha</hi> &amp; <hi>Omega</hi> of it, deriving his power fro<g ref="char:cmbAbbrStroke">̄</g> none, being the original of al power.</p>
+            <p>Thus you may ſee, that your Propoſition is, and is not true. I pray for the future make diſtinctions, where need requires.</p>
+            <p>Now for your <hi>Minor, that Chriſt is the judge of the world.</hi>
+            </p>
+            <pb n="59" facs="tcp:117415:33"/>
+            <p>Sure you take this for a granted truth, that no proof is brought to confirm it. I ſhall grant it. What then?</p>
+            <p>Will your deſign of drawing up the Concluſion proſper? nothing leſs: For it hath been brought to light, that meer creatures ſhall be Judges of the world. Wherefore if you cannot from evident ſcriptures demonſtrate this, <hi>That Jeſus Chriſt is Principall in judging the world; deriving from none his power of judgment,</hi> you will doe nothing to purpoſe.</p>
+            <p>But Sir, that I may preſerve you from ſuch an endleſs la<g ref="char:EOLhyphen"/>bour, I ſhalll ay down theſe Propoſitions, which alſo will ſpoil your preſent Market.</p>
+            <p>
+               <hi>Propoſ.</hi> 1. That the <hi>moſt High God,</hi> who is the worlds Prin<g ref="char:EOLhyphen"/>cipall judg, will not immediately, but by a <hi>Delegat</hi> judg the world. In Acts 17.31. the Apoſtle tels us, <hi>That God hath ap<g ref="char:EOLhyphen"/>pointed a day, in the which he will judge the world in righte<g ref="char:EOLhyphen"/>ouſneſs, by that man whom he hath ordained; whereof he hath given aſſurance unto all men, in that he hath raiſed him from the dead.</hi> In <hi>Iohn</hi> 5.22. Chriſt thus ſpeaks, <hi>The Father judgeth no man, but hath committed all Iudgment to the Son: Chriſt muſt raign till all enemies are put under his feet; and when all things ſhall be ſubdued to him, then ſhall the Son alſo himſelf be ſubject to the Father, that God may be all in all,</hi> 1 Cor. 15.28.</p>
+            <p>That Jeſus Chriſt is a <hi>ſubordinate Judg</hi> in reference unto God the ſupream Judg; but <hi>ſuperintendent</hi> in reference to the Saints his aſſeſſors in judgment.</p>
+            <p>That Chriſt is not the ſupream Judg, is evident from theſe Scriptures. <hi>In Acts</hi> 10. <hi>Peter</hi> ſhews, that the Apoſtles were commanded of God to preach unto the people, and to teſtifie <hi>That Ieſus Chriſt is ordained of</hi> God <hi>to be Iudg of quick and dead.</hi> Chriſt when he comes ſhall be ſent, <hi>Acts</hi> 3.20. and ſhall come in the <hi>glory of the Father,</hi> as <hi>Viceroy</hi> and <hi>Lord Deputy, Mat.</hi> 16.27. The Father hath <hi>given him authority</hi> to execute Judgement, <hi>Io.</hi> 5.27. And all that honour which ſhall be given to him, ſhall be for the <hi>Fathers glory, Phil.</hi> 2.11.</p>
+            <p>J am now to deal with your laſt Jnſtance, which is like to deal as unkindly with you as the former.</p>
+            <p>
+               <hi>If Chriſt be a meer creature,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance </seg>12</label> 
+               <hi>then Prayer to him being now in Heaven, is altogether vain and frivolous, inaſ<g ref="char:EOLhyphen"/>much
+<pb n="60" facs="tcp:117415:34"/>as perſons may cry loud long enough, before Chriſt hear them at that distance, but the Saints have been wont not onely to pray to God in Chriſts Name, but to pray to Chriſt directly and immediatly, in</hi> Acts 7.59. Rev. 22.20. <hi>Lord Ieſus receive my spirit. Come Lord Jeſus.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By the rule of the Goſpel we are to pray to <hi>God,</hi> or <hi>the Father</hi> in the Name of Chriſt Jeſus. You have no<g ref="char:EOLhyphen"/>thing to countenance Prayer to Chriſt, but the two Texts you mention. Jf <hi>Stephen</hi> did pray directly to Jeſus Chriſt, his act might be warranted by the viſible appearance of Chriſe; As <hi>Lot</hi> prayed to the Angel, being viſible, That in the <hi>Re<g ref="char:EOLhyphen"/>velation</hi> is no Prayer, but an <hi>intimation of the Churches de<g ref="char:EOLhyphen"/>ſire after Chriſts coming.</hi> The like manner of ſpeaking we have <hi>Rev.</hi> 6.16. which is no Prayer. I cannot but look up<g ref="char:EOLhyphen"/>on that as vain and frivolous; which you ſet as the Walls and Bulwarks of your Argument.</p>
+            <p>
+               <hi>If Chriſt were but a meer creature, being in heaven, we might cry loud and long enough before he could hear us.</hi>
+            </p>
+            <p>I would only ask you this queſtion, whether <hi>Chriſt</hi> could not <hi>hear</hi> as far as <hi>Stephen</hi> could <hi>ſee. Stephen</hi> could ſee from Earth to Heaven, though he was but a <hi>man.</hi> What will hinder the <hi>Man</hi> Chriſt from <hi>hearing</hi> as far?</p>
+            <p>Thus I have with much brevity (though a conſiderable Volume might have been written) concluded my anſwer to your Inſtances, which are twelve in number after your own reckoning, though they might have been fewer by many, be<g ref="char:EOLhyphen"/>ing branches one of another. I have ſtudied to forget your perſon, and endevoured onely to diſcover the weakneſs of your arguing. Whether I have done any thing to purpoſe, I leave you to be Iudge, when with ſobriety and impartiality you are capable to examine. And ſo in the midſt of my many other occaſions, I have brought my whole Anſwer to a full period; and have time to ſay no more but this, that my deſires are, <hi>that the God of light and ſtrength would be pleaſed to en<g ref="char:EOLhyphen"/>lighten your eyes, that you may rightly diſcern all things; and ſo order your ſpirit, that by modestlineſs you may breath forth truth in replying to him who is,</hi>
+            </p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>yours whilſt you are for the truth.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
